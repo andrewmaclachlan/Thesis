@@ -14,9 +14,6 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Prerequisites
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2ecf0c99-09ee-4238-9941-4af51aa8dc42/deploy-status)](https://app.netlify.com/sites/agitated-shannon-1d08ee/deploys)
-
-
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
 The **bookdown** package can be installed from CRAN or Github:
