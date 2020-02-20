@@ -1,36 +1,17 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
-date: "`r Sys.Date()`"
+title: "Earth Observation for Quantifying Urban Growth and its Application to Sustainable City Development"
+author: "Andrew MacLachlan"
+date: "September 2018"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+github-repo: andrewmaclachlan/Thesis
+description: ""
 ---
+# Abstract {-}
 
-# Prerequisites
-
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-The **bookdown** package can be installed from CRAN or Github:
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+Urban areas are predicted to triple by 2030 in accommodating 68% of the global population, with anthropogenic landscape modifications to impervious surfaces established as a critical driving force in local and global climate change. Accurate temporal monitoring of urban expansion and subsequent environmental issues are essential for ensuring the future sustainability of our cities. In particular the urban heat island effect is considered one of the major problems posed to humans in the 21st century associated with detrimental health impacts and increased energy demand, emissions, water output and economic expenditure. Yet, alongside a uniform modelling omission from global climate models, mitigation of the urban heat island effect lacks a global standardised framework, representative data for modelling impacts, and robust academic outputs for policy incorporation. These limitations are precluding effective data-informed governance.  
+This thesis presents a holistic policy-applicable approach for accurately monitoring and sustainably planning (re)development in relation to metropolitan and local level urban temperature dynamics. This is achieved through generating land cover maps from Earth observation data using a temporally consistent methodology with refinements to urban estimates based upon comparison to high resolution imagery. Variations between changes in land cover and land surface temperature are determined at the metropolitan level to aid sustainable urban growth plans. Temperature is then minimised at the local level through a modelling approach to optimally place vegetation with a proposed new development. The application area for this thesis is the Perth Metropolitan Region in Western Australia which has experienced sustained outward, non-strategic and low density expansion in response to booming natural resource sector. The presented methodology makes progress to aligning urban heat island mitigation efforts with global targets including the United Nation’s Sustainable Development Goals and New Urban Agenda, providing a reproducible method, transferable to other global metropolitan regions to improve sustainable city planning.
