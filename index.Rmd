@@ -17,20 +17,6 @@ description: ""
 ---
 
 
-```{r index-1, echo=FALSE}
-is_on_travis = identical(Sys.getenv("TRAVIS"), "true")
-is_online = curl::has_internet()
-is_html = knitr::is_html_output()
-```
-
-```{asis index-2, echo=is_html}
-# Welcome {-}
-This is the online home of *Geocomputation with R*, a book on geographic data analysis, visualization and modeling.
-<a href="https://www.crcpress.com/9781138304512"><img src="images/cover.png" width="250" height="375" alt="The geocompr book cover" align="right" style="margin: 0 1em 0 1em" /></a>
- [Travis](https://travis-ci.org/Robinlovelace/geocompr), which provides information on its 'build status' as follows:
-[![Build Status](https://travis-ci.org/andrewmaclachlan/Thesis.svg?branch=master)](https://travis-ci.org/andrewmaclachlan/Thesis)
-```
-
 ## Abstract {-}
 
 Urban areas are predicted to triple by 2030 in accommodating 68% of the global population, with anthropogenic landscape modifications to impervious surfaces established as a critical driving force in local and global climate change. Accurate temporal monitoring of urban expansion and subsequent environmental issues are essential for ensuring the future sustainability of our cities. In particular the urban heat island effect is considered one of the major problems posed to humans in the 21st century associated with detrimental health impacts and increased energy demand, emissions, water output and economic expenditure. Yet, alongside a uniform modelling omission from global climate models, mitigation of the urban heat island effect lacks a global standardised framework, representative data for modelling impacts, and robust academic outputs for policy incorporation. These limitations are precluding effective data-informed governance. 
