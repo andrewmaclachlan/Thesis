@@ -1,8 +1,9 @@
-# configure your name and email if you have not done so
+#!/bin/sh
+
 git config --global user.email "a.maclachlan@ucl.ac.uk"
 git config --global user.name "andrewmaclachlan"
 
-# clone the repository to the book-output directory
+#clone the repository to the book-output directory
 git clone -b gh-pages \
   https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git \
   book-output
