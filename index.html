@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Geocomputation with R</title>
+  <meta name="description" content="Geocomputation with R is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization, and geospatial capabilities. The book equips you with the knowledge and skills to tackle a wide range of issues manifested in geographic data, including those with scientific, societal, and environmental implications. This book will interest people from many backgrounds, especially Geographic Information Systems (GIS) users interested in applying their domain-specific knowledge in a powerful open source language for data science, and R users interested in extending their skills to handle spatial data." />
+  <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Geocomputation with R" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://geocompr.robinlovelace.net/" />
+  <meta property="og:image" content="https://geocompr.robinlovelace.net/images/cover.png" />
+  <meta property="og:description" content="Geocomputation with R is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization, and geospatial capabilities. The book equips you with the knowledge and skills to tackle a wide range of issues manifested in geographic data, including those with scientific, societal, and environmental implications. This book will interest people from many backgrounds, especially Geographic Information Systems (GIS) users interested in applying their domain-specific knowledge in a powerful open source language for data science, and R users interested in extending their skills to handle spatial data." />
+  <meta name="github-repo" content="Robinlovelace/geocompr" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Geocomputation with R" />
+  
+  <meta name="twitter:description" content="Geocomputation with R is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization, and geospatial capabilities. The book equips you with the knowledge and skills to tackle a wide range of issues manifested in geographic data, including those with scientific, societal, and environmental implications. This book will interest people from many backgrounds, especially Geographic Information Systems (GIS) users interested in applying their domain-specific knowledge in a powerful open source language for data science, and R users interested in extending their skills to handle spatial data." />
+  <meta name="twitter:image" content="https://geocompr.robinlovelace.net/images/cover.png" />
+
+<meta name="author" content="Robin Lovelace, Jakub Nowosad, Jannes Muenchow" />
+
+
+<meta name="date" content="2020-02-21" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="foreword.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A MacLachlan PhD</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a><ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-contribute"><i class="fa fa-check"></i>How to contribute?</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#reproducibility"><i class="fa fa-check"></i>Reproducibility</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#supporting-the-project"><i class="fa fa-check"></i>Supporting the project</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="foreword.html"><a href="foreword.html"><i class="fa fa-check"></i>Foreword</a></li>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html"><i class="fa fa-check"></i>Preface</a><ul>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#who-this-book-is-for"><i class="fa fa-check"></i>Who this book is for</a></li>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#how-to-read-this-book"><i class="fa fa-check"></i>How to read this book</a></li>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#why-r"><i class="fa fa-check"></i>Why R?</a></li>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#real-world-impact"><i class="fa fa-check"></i>Real-world impact</a></li>
+<li class="chapter" data-level="" data-path="preface.html"><a href="preface.html#acknowledgements"><i class="fa fa-check"></i>Acknowledgements</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="acknowledgements-1.html"><a href="acknowledgements-1.html"><i class="fa fa-check"></i>Acknowledgements</a><ul>
+<li class="chapter" data-level="" data-path="acknowledgements-1.html"><a href="acknowledgements-1.html#personal"><i class="fa fa-check"></i>Personal</a></li>
+<li class="chapter" data-level="" data-path="acknowledgements-1.html"><a href="acknowledgements-1.html#funding-and-data-access"><i class="fa fa-check"></i>Funding and data access</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html"><i class="fa fa-check"></i>Declaration of Authorship</a><ul>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#author-attribution-statements"><i class="fa fa-check"></i>Author attribution statements</a><ul>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#chapter-4-paper-1a"><i class="fa fa-check"></i>Chapter 4, paper 1a</a></li>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#chapter-4-paper-1b"><i class="fa fa-check"></i>Chapter 4, paper 1b</a></li>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#chapter-5-paper-2"><i class="fa fa-check"></i>Chapter 5, paper 2</a></li>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#chapter-6-paper-3"><i class="fa fa-check"></i>Chapter 6, paper 3</a></li>
+<li class="chapter" data-level="" data-path="declaration-of-authorship.html"><a href="declaration-of-authorship.html#chapter-7-paper-4"><i class="fa fa-check"></i>Chapter 7, paper 4</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#an-expanding-urban-area"><i class="fa fa-check"></i><b>1.1</b> An expanding urban area</a></li>
+<li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#defining-urban-area"><i class="fa fa-check"></i><b>1.2</b> Defining urban area</a></li>
+<li class="chapter" data-level="1.3" data-path="introduction.html"><a href="introduction.html#types-of-urban-expansion"><i class="fa fa-check"></i><b>1.3</b> Types of urban expansion</a><ul>
+<li class="chapter" data-level="1.3.1" data-path="introduction.html"><a href="introduction.html#urban-growth"><i class="fa fa-check"></i><b>1.3.1</b> Urban growth</a></li>
+<li class="chapter" data-level="1.3.2" data-path="introduction.html"><a href="introduction.html#urban-sprawl"><i class="fa fa-check"></i><b>1.3.2</b> Urban sprawl</a></li>
+<li class="chapter" data-level="1.3.3" data-path="introduction.html"><a href="introduction.html#urban-growth-and-sprawl-in-earth-observation"><i class="fa fa-check"></i><b>1.3.3</b> Urban growth and sprawl in Earth observation</a></li>
+</ul></li>
+<li class="chapter" data-level="1.4" data-path="introduction.html"><a href="introduction.html#the-urban-heat-island-effect"><i class="fa fa-check"></i><b>1.4</b> The urban heat island effect</a><ul>
+<li class="chapter" data-level="1.4.1" data-path="introduction.html"><a href="introduction.html#introduction-1"><i class="fa fa-check"></i><b>1.4.1</b> Introduction</a></li>
+<li class="chapter" data-level="1.4.2" data-path="introduction.html"><a href="introduction.html#urban-heat-island-theory"><i class="fa fa-check"></i><b>1.4.2</b> Urban heat island theory</a></li>
+<li class="chapter" data-level="1.4.3" data-path="introduction.html"><a href="introduction.html#urban-heat-island-categories"><i class="fa fa-check"></i><b>1.4.3</b> Urban heat island categories</a></li>
+<li class="chapter" data-level="1.4.4" data-path="introduction.html"><a href="introduction.html#heat-island-layers"><i class="fa fa-check"></i><b>1.4.4</b> Heat island layers</a></li>
+<li class="chapter" data-level="1.4.5" data-path="introduction.html"><a href="introduction.html#heat-island-temporal-form"><i class="fa fa-check"></i><b>1.4.5</b> Heat island temporal form</a></li>
+</ul></li>
+<li class="chapter" data-level="1.5" data-path="introduction.html"><a href="introduction.html#urban-heat-island-impacts"><i class="fa fa-check"></i><b>1.5</b> Urban heat island impacts</a><ul>
+<li class="chapter" data-level="1.5.1" data-path="introduction.html"><a href="introduction.html#social-impacts"><i class="fa fa-check"></i><b>1.5.1</b> Social impacts</a></li>
+<li class="chapter" data-level="1.5.2" data-path="introduction.html"><a href="introduction.html#environmental-impacts"><i class="fa fa-check"></i><b>1.5.2</b> Environmental impacts</a></li>
+<li class="chapter" data-level="1.5.3" data-path="introduction.html"><a href="introduction.html#economic-impacts"><i class="fa fa-check"></i><b>1.5.3</b> Economic impacts</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><i class="fa fa-check"></i><b>2</b> Monitoring urban growth and the urban heat island effect using Earth observation</a><ul>
+<li class="chapter" data-level="2.1" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#introduction-2"><i class="fa fa-check"></i><b>2.1</b> Introduction</a></li>
+<li class="chapter" data-level="2.2" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#monitoring-land-cover-change"><i class="fa fa-check"></i><b>2.2</b> Monitoring land cover change</a><ul>
+<li class="chapter" data-level="2.2.1" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#image-preprocessing"><i class="fa fa-check"></i><b>2.2.1</b> Image preprocessing</a></li>
+<li class="chapter" data-level="2.2.2" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#image-classification"><i class="fa fa-check"></i><b>2.2.2</b> Image classification</a></li>
+<li class="chapter" data-level="2.2.3" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#recent-classification-methodologies"><i class="fa fa-check"></i><b>2.2.3</b> Recent classification methodologies</a></li>
+<li class="chapter" data-level="2.2.4" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#comparison-of-recent-classification-methodologies"><i class="fa fa-check"></i><b>2.2.4</b> Comparison of recent classification methodologies</a></li>
+<li class="chapter" data-level="2.2.5" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#image-spectral-combinations"><i class="fa fa-check"></i><b>2.2.5</b> Image spectral combinations</a></li>
+<li class="chapter" data-level="2.2.6" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#data-fusion-methodologies"><i class="fa fa-check"></i><b>2.2.6</b> Data fusion methodologies</a></li>
+<li class="chapter" data-level="2.2.7" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#output-evaluation"><i class="fa fa-check"></i><b>2.2.7</b> Output evaluation</a></li>
+<li class="chapter" data-level="2.2.8" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#classification-methodological-conclusion"><i class="fa fa-check"></i><b>2.2.8</b> Classification methodological conclusion</a></li>
+</ul></li>
+<li class="chapter" data-level="2.3" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#monitoring-urban-heat-islands"><i class="fa fa-check"></i><b>2.3</b> Monitoring urban heat islands</a><ul>
+<li class="chapter" data-level="2.3.1" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#traditional-urban-heat-island-methodologies"><i class="fa fa-check"></i><b>2.3.1</b> Traditional urban heat island methodologies</a></li>
+<li class="chapter" data-level="2.3.2" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#remotely-sensed-land-surface-temperature"><i class="fa fa-check"></i><b>2.3.2</b> Remotely sensed land surface temperature</a></li>
+<li class="chapter" data-level="2.3.3" data-path="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html"><a href="monitoring-urban-growth-and-the-urban-heat-island-effect-using-earth-observation.html#localised-temperature-mitigation"><i class="fa fa-check"></i><b>2.3.3</b> Localised temperature mitigation</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="research-aim-and-objectives.html"><a href="research-aim-and-objectives.html"><i class="fa fa-check"></i><b>3</b> Research aim and objectives</a><ul>
+<li class="chapter" data-level="3.1" data-path="research-aim-and-objectives.html"><a href="research-aim-and-objectives.html#study-site"><i class="fa fa-check"></i><b>3.1</b> Study site</a></li>
+<li class="chapter" data-level="3.2" data-path="research-aim-and-objectives.html"><a href="research-aim-and-objectives.html#thesis-structure-and-methodological-outline"><i class="fa fa-check"></i><b>3.2</b> Thesis structure and methodological outline</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><i class="fa fa-check"></i><b>4</b> Urban growth dynamics in Perth, Western Australia: using applied remote sensing for sustainable future planning</a><ul>
+<li class="chapter" data-level="4.1" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#abstract"><i class="fa fa-check"></i><b>4.1</b> Abstract</a></li>
+<li class="chapter" data-level="4.2" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#introduction-3"><i class="fa fa-check"></i><b>4.2</b> Introduction</a><ul>
+<li class="chapter" data-level="4.2.1" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#earth-observation-for-monitoring-urban-change"><i class="fa fa-check"></i><b>4.2.1</b> Earth observation for monitoring urban change</a></li>
+<li class="chapter" data-level="4.2.2" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#the-case-of-perth"><i class="fa fa-check"></i><b>4.2.2</b> The case of Perth</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#materials-and-methods"><i class="fa fa-check"></i><b>4.3</b> Materials and methods</a><ul>
+<li class="chapter" data-level="4.3.1" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#data-preprocessing"><i class="fa fa-check"></i><b>4.3.1</b> Data preprocessing</a></li>
+<li class="chapter" data-level="4.3.2" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#data-classification"><i class="fa fa-check"></i><b>4.3.2</b> Data classification</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#results"><i class="fa fa-check"></i><b>4.4</b> Results</a></li>
+<li class="chapter" data-level="4.5" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#discussion"><i class="fa fa-check"></i><b>4.5</b> Discussion</a></li>
+<li class="chapter" data-level="4.6" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#recommendations"><i class="fa fa-check"></i><b>4.6</b> Recommendations</a></li>
+<li class="chapter" data-level="4.7" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#supplementary-material"><i class="fa fa-check"></i><b>4.7</b> Supplementary material</a><ul>
+<li class="chapter" data-level="4.7.1" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#standardisation-and-normalisation"><i class="fa fa-check"></i><b>4.7.1</b> Standardisation and normalisation</a></li>
+<li class="chapter" data-level="4.7.2" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#accuracy-assessment"><i class="fa fa-check"></i><b>4.7.2</b> Accuracy assessment</a></li>
+<li class="chapter" data-level="4.7.3" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#other-considered-data-and-approaches"><i class="fa fa-check"></i><b>4.7.3</b> Other considered data and approaches</a></li>
+<li class="chapter" data-level="4.7.4" data-path="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html"><a href="urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning.html#chapter-data-list"><i class="fa fa-check"></i><b>4.7.4</b> Chapter data list</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><i class="fa fa-check"></i><b>5</b> Subpixel land cover classification for improved urban area estimates using Landsat</a><ul>
+<li class="chapter" data-level="5.1" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#abstract-1"><i class="fa fa-check"></i><b>5.1</b> Abstract</a></li>
+<li class="chapter" data-level="5.2" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#introduction-4"><i class="fa fa-check"></i><b>5.2</b> Introduction</a></li>
+<li class="chapter" data-level="5.3" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#study-area"><i class="fa fa-check"></i><b>5.3</b> Study area</a></li>
+<li class="chapter" data-level="5.4" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#data"><i class="fa fa-check"></i><b>5.4</b> Data</a><ul>
+<li class="chapter" data-level="5.4.1" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#landsat-data"><i class="fa fa-check"></i><b>5.4.1</b> Landsat data</a></li>
+<li class="chapter" data-level="5.4.2" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#high-spatial-resolution-airborne-imagery"><i class="fa fa-check"></i><b>5.4.2</b> High spatial resolution airborne imagery</a></li>
+</ul></li>
+<li class="chapter" data-level="5.5" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#methodology"><i class="fa fa-check"></i><b>5.5</b> Methodology</a><ul>
+<li class="chapter" data-level="5.5.1" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#landsat-preprocessing"><i class="fa fa-check"></i><b>5.5.1</b> Landsat preprocessing</a></li>
+<li class="chapter" data-level="5.5.2" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#landsat-classification"><i class="fa fa-check"></i><b>5.5.2</b> Landsat classification</a></li>
+<li class="chapter" data-level="5.5.3" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#google-earth-landsat-accuracy-assessment"><i class="fa fa-check"></i><b>5.5.3</b> Google Earth Landsat accuracy assessment</a></li>
+<li class="chapter" data-level="5.5.4" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#aerial-image-classification"><i class="fa fa-check"></i><b>5.5.4</b> Aerial image classification</a></li>
+<li class="chapter" data-level="5.5.5" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#dataset-comparison-and-landsat-refinement"><i class="fa fa-check"></i><b>5.5.5</b> Dataset comparison and Landsat refinement</a></li>
+</ul></li>
+<li class="chapter" data-level="5.6" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#results-1"><i class="fa fa-check"></i><b>5.6</b> Results</a><ul>
+<li class="chapter" data-level="5.6.1" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#orthophoto-and-landsat-land-cover-comparison"><i class="fa fa-check"></i><b>5.6.1</b> Orthophoto and Landsat land cover comparison</a></li>
+<li class="chapter" data-level="5.6.2" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#comparison-between-landsat-and-high-spatial-resolution-impervious-surface-estimates"><i class="fa fa-check"></i><b>5.6.2</b> Comparison between Landsat and high spatial resolution impervious surface estimates</a></li>
+<li class="chapter" data-level="5.6.3" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#refining-landsat-estimations-using-high-spatial-resolution-data"><i class="fa fa-check"></i><b>5.6.3</b> Refining Landsat estimations using high spatial resolution data</a></li>
+</ul></li>
+<li class="chapter" data-level="5.7" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#discussion-1"><i class="fa fa-check"></i><b>5.7</b> Discussion</a></li>
+<li class="chapter" data-level="5.8" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#conclusion"><i class="fa fa-check"></i><b>5.8</b> Conclusion</a></li>
+<li class="chapter" data-level="5.9" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#supplementary-material-1"><i class="fa fa-check"></i><b>5.9</b> Supplementary material</a><ul>
+<li class="chapter" data-level="5.9.1" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#classification-methodologies"><i class="fa fa-check"></i><b>5.9.1</b> Classification methodologies</a></li>
+<li class="chapter" data-level="5.9.2" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#other-considered-data-and-approaches-1"><i class="fa fa-check"></i><b>5.9.2</b> Other considered data and approaches</a></li>
+<li class="chapter" data-level="5.9.3" data-path="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html"><a href="subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat.html#chapter-data-list-1"><i class="fa fa-check"></i><b>5.9.3</b> Chapter data list</a></li>
+</ul></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Geocomputation with R</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Geocomputation with R</h1>
+<p class="author"><em>Robin Lovelace, Jakub Nowosad, Jannes Muenchow</em></p>
+<p class="date"><em>2020-02-21</em></p>
+</div>
+<div id="welcome" class="section level1 unnumbered">
+<h1>Welcome</h1>
+<p>This is the online home of <em>Geocomputation with R</em>, a book on geographic data analysis, visualization and modeling.</p>
+<p><a href="https://www.crcpress.com/9781138304512"><img src="images/cover.png" width="250" height="375" alt="The geocompr book cover" align="right" style="margin: 0 1em 0 1em" /></a></p>
+<p><strong>Note</strong>: This book has now been published by CRC Press in the <a href="https://www.crcpress.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER">R Series</a>. You can buy the book from <a href="https://www.crcpress.com/9781138304512">CRC Press</a>, <a href="https://wordery.com/geocomputation-with-r-robin-lovelace-9781138304512">Wordery</a>, or <a href="https://www.amazon.com/Geocomputation-Chapman-Hall-Robin-Lovelace/dp/1138304514/">Amazon</a>.</p>
+<p>Inspired by <a href="https://github.com/rstudio/bookdown"><strong>bookdown</strong></a> and the Free and Open Source Software for Geospatial (<a href="http://foss4g.org/">FOSS4G</a>) movement, this book is open source. This ensures its contents are reproducible and publicly accessible for people worldwide.</p>
+<p>The online version of the book is hosted at <a href="https://geocompr.robinlovelace.net">geocompr.robinlovelace.net</a> and kept up-to-date by <a href="https://travis-ci.org/Robinlovelace/geocompr">Travis</a>, which provides information on its ‘build status’ as follows:</p>
+<p><a href="https://travis-ci.org/Robinlovelace/geocompr"><img src="https://travis-ci.org/Robinlovelace/geocompr.svg?branch=master" alt="Build Status" /></a></p>
+<!--The version of the book you are reading now was built on `r Sys.Date()` and was built `r if(is_on_travis) "on [Travis](https://travis-ci.org/Robinlovelace/geocompr)" else "locally"`.-->
+<div id="how-to-contribute" class="section level2 unnumbered">
+<h2>How to contribute?</h2>
+<p><strong>bookdown</strong> makes editing a book as easy as editing a wiki, provided you have a GitHub account (<a href="https://github.com/">sign-up at github.com</a>). Once logged-in to GitHub, click on the ‘edit me’ icon highlighted with a red ellipse in the image below. This will take you to an editable version of the the source <a href="http://rmarkdown.rstudio.com/">R Markdown</a> file that generated the page you’re on:</p>
+<p><a href="https://github.com/Robinlovelace/geocompr/edit/master/index.Rmd"><img src="figures/editme.png" /></a></p>
+<p>To raise an issue about the book’s content (e.g. code not running) or make a feature request, check-out the <a href="https://github.com/Robinlovelace/geocompr/issues">issue tracker</a>.</p>
+<p>Maintainers and contributors must follow this repository’s <a href="https://github.com/Robinlovelace/geocompr/blob/master/CODE_OF_CONDUCT.md">CODE OF CONDUCT</a>.</p>
+</div>
+<div id="reproducibility" class="section level2 unnumbered">
+<h2>Reproducibility</h2>
+<p>To reproduce the code in the book, you need a recent version of <a href="https://cran.r-project.org/">R</a> and up-to-date packages. These can be installed with the following command (which requires <a href="https://github.com/hadley/devtools"><strong>devtools</strong></a>):</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co">#devtools::install_github(&quot;geocompr/geocompkg&quot;)</span></code></pre></div>
+<p>To build the book locally, clone or <a href="https://github.com/Robinlovelace/geocompr/archive/master.zip">download</a> the <a href="https://github.com/Robinlovelace/geocompr/">geocompr repo</a>, load R in root directory (e.g. by opening <a href="https://github.com/Robinlovelace/geocompr/blob/master/geocompr.Rproj">geocompr.Rproj</a> in RStudio) and run the following lines:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">bookdown<span class="op">::</span><span class="kw">render_book</span>(<span class="st">&quot;index.Rmd&quot;</span>) <span class="co"># to build the book</span>
+<span class="kw">browseURL</span>(<span class="st">&quot;_book/index.html&quot;</span>) <span class="co"># to view it</span></code></pre></div>
+<!-- suggested content on if you find the book useful but this intro is already quite long (RL)-->
+</div>
+<div id="supporting-the-project" class="section level2 unnumbered">
+<h2>Supporting the project</h2>
+<p>If you find the book useful, please support it by:</p>
+<ul>
+<li>Telling people about it in person</li>
+<li>Communicating about the book in digital media e.g. via the <a href="https://twitter.com/hashtag/geocompr">#geocompr hashtag</a> on Twitter (see our <a href="https://geocompr.github.io/guestbook/">Guestbook at geocompr.github.io</a>) or by letting us know of <a href="https://github.com/geocompr/geocompr.github.io/edit/source/content/guestbook/index.md">courses</a> using the book</li>
+<li><a href="https://github.com/Robinlovelace/geocompr/raw/master/cite-geocompr.bib">Citing</a> or <a href="https://geocompr.robinlovelace.net/">linking-to</a> it</li>
+<li>‘<a href="https://help.github.com/articles/about-stars/">Starring</a>’ the <a href="https://github.com/robinlovelace/geocompr">geocompr GitHub repository</a></li>
+<li>Reviewing it, e.g. on Amazon or <a href="https://www.goodreads.com/book/show/42780859-geocomputation-with-r">Goodreads</a></li>
+<li>Asking questions about or making suggestion on the content via <a href="https://github.com/Robinlovelace/geocompr/issues/372">GitHub</a> or Twitter.</li>
+<li><a href="https://www.amazon.com/Geocomputation-Chapman-Hall-Robin-Lovelace/dp/1138304514/">Buying</a> a copy</li>
+</ul>
+<p>Further details can be found at <a href="https://github.com/Robinlovelace/geocompr#geocomputation-with-r">github.com/Robinlovelace/geocompr</a>.</p>
+<p><a href="https://www.netlify.com"><img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/></a></p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="foreword.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/index.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["bookdown-demo.pdf", "bookdown-demo.epub"],
+"toc": {
+"collapse": "section",
+"scroll_highlight": true
+}
+});
+});
+</script>
+
+</body>
+
+</html>
