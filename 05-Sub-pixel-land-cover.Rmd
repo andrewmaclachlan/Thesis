@@ -145,6 +145,7 @@ Here we investigate the utility of the sub-pixel Landsat urban land cover estima
 Figure 5 9. Relationship between the sub-pixel urban area percentage cover estimated from the IVM sub-pixel Landsat classification and the high spatial resolution orthophoto classification in the Central Business District (CBD) subset for (a) 30 × 30 m window, (b) 90 × 90 m window, (c) 150 × 150 m window, and (d) 210 × 210 m window.
 
 Table 5 5. Comparison between high (20 cm2) and moderate (30 m2) spatial resolution sub-pixel impervious surface estimates considering differing kernel sizes over four subsets (Figure 5 1) within the PMR.
+
 Subset	Kernel size (m)	R2	Scatter	Bias	Root Mean Square Error  (RMSE)
 East Beechboro	3030	0.41*	26.65	18.68	32.54
 	9090	0.68*	16.95	18.66	25.21
