@@ -98,269 +98,44 @@ of Philosophy \and School of Geography and Environmental Science, \and Universit
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\newpage
+\section*{Abstract}\label{abstract}
+\addcontentsline{toc}{section}{Abstract}
 
-\vspace*{5cm}
+Urban areas are predicted to triple by 2030 in accommodating 68\% of the
+global population, with anthropogenic landscape modifications to
+impervious surfaces established as a critical driving force in local and
+global climate change. Accurate temporal monitoring of urban expansion
+and subsequent environmental issues are essential for ensuring the
+future sustainability of our cities. In particular the urban heat island
+effect is considered one of the major problems posed to humans in the
+21st century associated with detrimental health impacts and increased
+energy demand, emissions, water output and economic expenditure. Yet,
+alongside a uniform modelling omission from global climate models,
+mitigation of the urban heat island effect lacks a global standardised
+framework, representative data for modelling impacts, and robust
+academic outputs for policy incorporation. These limitations are
+precluding effective data-informed governance.
 
-\thispagestyle{empty}
+This thesis presents a holistic policy-applicable approach for
+accurately monitoring and sustainably planning (re)development in
+relation to metropolitan and local level urban temperature dynamics.
+This is achieved through generating land cover maps from Earth
+observation data using a temporally consistent methodology with
+refinements to urban estimates based upon comparison to high resolution
+imagery. Variations between changes in land cover and land surface
+temperature are determined at the metropolitan level to aid sustainable
+urban growth plans. Temperature is then minimised at the local level
+through a modelling approach to optimally place vegetation with a
+proposed new development. The application area for this thesis is the
+Perth Metropolitan Region in Western Australia which has experienced
+sustained outward, non-strategic and low density expansion in response
+to booming natural resource sector. The presented methodology makes
+progress to aligning urban heat island mitigation efforts with global
+targets including the United Nation's Sustainable Development Goals and
+New Urban Agenda, providing a reproducible method, transferable to other
+global metropolitan regions to improve sustainable city planning.
 
-\begin{center} \Large \emph{For Katy  } \end{center}
-
-\vspace*{2cm}
-
-\begin{center} \Large \emph{Dla Jagody} \end{center}
-
-\vspace*{2cm}
-
-\begin{center} \Large \emph{F{\"u}r meine Katharina und alle unsere Kinder  } \end{center}
-
-\chapter*{Foreword}\label{foreword}
-\addcontentsline{toc}{chapter}{Foreword}
-
-Doing `spatial' in R has always been about being broad, seeking to
-provide and integrate tools from geography, geoinformatics,
-geocomputation and spatial statistics for anyone interested in joining
-in: joining in asking interesting questions, contributing fruitful
-research questions, and writing and improving code. That is, doing
-`spatial' in R has always included open source code, open data and
-reproducibility.
-
-Doing `spatial' in R has also sought to be open to interaction with many
-branches of applied spatial data analysis, and also to implement new
-advances in data representation and methods of analysis to expose them
-to cross-disciplinary scrutiny. As this book demonstrates, there are
-often alternative workflows from similar data to similar results, and we
-may learn from comparisons with how others create and understand their
-workflows. This includes learning from similar communities around Open
-Source GIS and complementary languages such as Python, Java and so on.
-
-R's wide range of spatial capabilities would never have evolved without
-people willing to share what they were creating or adapting. This might
-include teaching materials, software, research practices (reproducible
-research, open data), and combinations of these. R users have also
-benefitted greatly from `upstream' open source geo libraries such as
-GDAL, GEOS and PROJ.
-
-This book is a clear example that, if you are curious and willing to
-join in, you can find things that need doing and that match your
-aptitudes. With advances in data representation and workflow
-alternatives, and ever increasing numbers of new users often without
-applied quantitative command-line exposure, a book of this kind has
-really been needed. Despite the effort involved, the authors have
-supported each other in pressing forward to publication.
-
-So, this fresh book is ready to go; its authors have tried it out during
-many tutorials and workshops, so readers and instructors will be able to
-benefit from knowing that the contents have been and continue to be
-tried out on people like them. Engage with the authors and the wider
-R-spatial community, see value in having more choice in building your
-workflows and most important, enjoy applying what you learn here to
-things you care about.
-
-Roger Bivand
-
-Bergen, September 2018
-
-\chapter*{Preface}\label{preface}
-\addcontentsline{toc}{chapter}{Preface}
-
-\section*{Who this book is for}\label{who-this-book-is-for}
-\addcontentsline{toc}{section}{Who this book is for}
-
-This book is for people who want to analyze, visualize and model
-geographic data with open source software. It is based on R, a
-statistical programming language that has powerful data processing,
-visualization and geospatial capabilities. The book covers a wide range
-of topics and will be of interest to a wide range of people from many
-different backgrounds, especially:
-
-\begin{itemize}
-\tightlist
-\item
-  People who have learned spatial analysis skills using a desktop
-  Geographic Information System (GIS) such as
-  \href{http://qgis.org/en/site/}{QGIS},
-  \href{http://desktop.arcgis.com/en/arcmap/}{ArcMap},
-  \href{https://grass.osgeo.org/}{GRASS} or
-  \href{http://www.saga-gis.org/en/index.html}{SAGA}, who want access to
-  a powerful (geo)statistical and visualization programming language and
-  the benefits of a command-line approach \citep{sherman_desktop_2008}:
-\end{itemize}
-
-\begin{quote}
-With the advent of `modern' GIS software, most people want to point and
-click their way through life. That's good, but there is a tremendous
-amount of flexibility and power waiting for you with the command line.
-\end{quote}
-
-\begin{itemize}
-\tightlist
-\item
-  Graduate students and researchers from fields specializing in
-  geographic data including Geography, Remote Sensing, Planning, GIS and
-  Geographic Data Science
-\item
-  Academics and post-graduate students working on projects in fields
-  including Geology, Regional Science, Biology and Ecology, Agricultural
-  Sciences (precision farming), Archaeology, Epidemiology, Transport
-  Modeling, and broadly defined Data Science which require the power and
-  flexibility of R for their research 
-\item
-  Applied researchers and analysts in public, private or third-sector
-  organizations who need the reproducibility, speed and flexibility of a
-  command-line language such as R in applications dealing with spatial
-  data as diverse as Urban and Transport Planning, Logistics,
-  Geo-marketing (store location analysis) and Emergency Planning 
-\end{itemize}
-
-The book is designed for intermediate-to-advanced R users interested in
-geocomputation and R beginners who have prior experience with geographic
-data. If you are new to both R and geographic data, do not be
-discouraged: we provide links to further materials and describe the
-nature of spatial data from a beginner's perspective in Chapter
-\ref{spatial-class} and in links provided below.
-
-\section*{How to read this book}\label{how-to-read-this-book}
-\addcontentsline{toc}{section}{How to read this book}
-
-The book is divided into three parts:
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Part I: Foundations, aimed at getting you up-to-speed with geographic
-  data in R.
-\item
-  Part II: Extensions, which covers advanced techniques.
-\item
-  Part III: Applications, to real-world problems.
-\end{enumerate}
-
-The chapters get progressively harder in each so we recommend reading
-the book in order. A major barrier to geographical analysis in R is its
-steep learning curve. The chapters in Part I aim to address this by
-providing reproducible code on simple datasets that should ease the
-process of getting started.
-
-An important aspect of the book from a teaching/learning perspective is
-the \textbf{exercises} at the end of each chapter. Completing these will
-develop your skills and equip you with the confidence needed to tackle a
-range of geospatial problems. Solutions to the exercises, and a number
-of extended examples, are provided on the book's supporting website, at
-\href{https://geocompr.github.io/}{geocompr.github.io}.
-
-Impatient readers are welcome to dive straight into the practical
-examples, starting in Chapter \ref{spatial-class}. However, we recommend
-reading about the wider context of \emph{Geocomputation with R} in
-Chapter \ref{intro} first. If you are new to R, we also recommend
-learning more about the language before attempting to run the code
-chunks provided in each chapter (unless you're reading the book for an
-understanding of the concepts). Fortunately for R beginners R has a
-supportive community that has developed a wealth of resources that can
-help. We particularly recommend three tutorials:
-\href{http://r4ds.had.co.nz/}{R for Data Science}
-\citep{grolemund_r_2016} and
-\href{https://csgillespie.github.io/efficientR/}{Efficient R
-Programming} \citep{gillespie_efficient_2016}, especially
-\href{https://csgillespie.github.io/efficientR/set-up.html\#r-version}{Chapter
-2} (on installing and setting-up R/RStudio) and
-\href{https://csgillespie.github.io/efficientR/learning.html}{Chapter
-10} (on learning to learn), and \href{http://colinfay.me/intro-to-r/}{An
-introduction to R} \citep{venables_introduction_2017}. A good
-interactive tutorial is DataCamp's
-\href{https://www.datacamp.com/courses/free-introduction-to-r}{Introduction
-to R}.
-
-\section*{Why R?}\label{why-r}
-\addcontentsline{toc}{section}{Why R?}
-
-Although R has a steep learning curve, the command-line approach
-advocated in this book can quickly pay off. As you'll learn in
-subsequent chapters, R is an effective tool for tackling a wide range of
-geographic data challenges. We expect that, with practice, R will become
-the program of choice in your geospatial toolbox for many applications.
-Typing and executing commands at the command-line is, in many cases,
-faster than pointing-and-clicking around the graphical user interface
-(GUI) of a desktop GIS. For some applications such as Spatial Statistics
-and modeling R may be the \emph{only} realistic way to get the work
-done.
-
-As outlined in Section \ref{why-use-r-for-geocomputation}, there are
-many reasons for using R for geocomputation: R is well-suited to the
-interactive use required in many geographic data analysis workflows
-compared with other languages. R excels in the rapidly growing fields of
-Data Science (which includes data carpentry, statistical learning
-techniques and data visualization) and Big Data (via efficient
-interfaces to databases and distributed computing systems). Furthermore
-R enables a reproducible workflow: sharing scripts underlying your
-analysis will allow others to build-on your work. To ensure
-reproducibility in this book we have made its source code available at
-\href{https://github.com/Robinlovelace/geocompr\#geocomputation-with-r}{github.com/Robinlovelace/geocompr}.
-There you will find script files in the \texttt{code/} folder that
-generate figures: when code generating a figure is not provided in the
-main text of the book, the name of the script file that generated it is
-provided in the caption (see for example the caption for Figure
-\ref{fig:zones}).
-
-Other languages such as Python, Java and C++ can be used for
-geocomputation and there are excellent resources for learning
-geocomputation \emph{without R}, as discussed in Section
-\ref{software-for-geocomputation}. None of these provide the unique
-combination of package ecosystem, statistical capabilities,
-visualization options, powerful IDEs offered by the R community.
-Furthermore, by teaching how to use one language (R) in depth, this book
-will equip you with the concepts and confidence needed to do
-geocomputation in other languages.
-
-\section*{Real-world impact}\label{real-world-impact}
-\addcontentsline{toc}{section}{Real-world impact}
-
-\emph{Geocomputation with R} will equip you with knowledge and skills to
-tackle a wide range of issues, including those with scientific, societal
-and environmental implications, manifested in geographic data. As
-described in Section \ref{what-is-geocomputation}, geocomputation is not
-only about using computers to process geographic data: it is also about
-real-world impact. If you are interested in the wider context and
-motivations behind this book, read on; these are covered in Chapter
-\ref{intro}.
-
-\section*{Acknowledgements}\label{acknowledgements}
-\addcontentsline{toc}{section}{Acknowledgements}
-
-Many thanks to everyone who contributed directly and indirectly via the
-code hosting and collaboration site GitHub, including the following
-people who contributed direct via pull requests Special thanks to Marco
-Sciaini, who not only created the front cover image, but also published
-the code that generated it (see \texttt{frontcover.R} in the book's
-GitHub repo). Dozens more people contributed online, by raising and
-commenting on issues, and by providing feedback via social media. The
-\texttt{\#geocompr} hashtag will live on!
-
-We would like to thank John Kimmel from CRC Press, who has worked with
-us over two years to take our ideas from an early book plan into
-production via four rounds of peer review. The reviewers deserve special
-mention here: their detailed feedback and expertise substantially
-improved the book's structure and content.
-
-We thank Patrick Schratz and Alexander Brenning from the University of
-Jena for fruitful discussions on and input into Chapters
-\ref{spatial-cv} and \ref{eco}. We thank Emmanuel Blondel from the Food
-and Agriculture Organization of the United Nations for expert input into
-the section on web services; Michael Sumner for critical input into many
-areas of the book, especially the discussion of algorithms in Chapter
-10; Tim Appelhans and David Cooley for key contributions to the
-visualization chapter (Chapter 8); and Katy Gregg, who proofread every
-chapter and greatly improved the readability of the book.
-
-Countless others could be mentioned who contributed in myriad ways. The
-final thank you is for all the software developers who make
-geocomputation with R possible. Edzer Pebesma (who created the
-\textbf{sf} package), Robert Hijmans (who created \textbf{raster}) and
-Roger Bivand (who laid the foundations for much R-spatial software) have
-made high performance geographic computing possible in R.
-
-\chapter*{Acknowledgements}\label{acknowledgements-1}
+\chapter*{Acknowledgements}\label{acknowledgements}
 \addcontentsline{toc}{chapter}{Acknowledgements}
 
 \section*{Personal}\label{personal}
@@ -1975,7 +1750,7 @@ relation to the overall thesis aim.
 applied remote sensing for sustainable future
 planning}\label{urban-growth-dynamics-in-perth-western-australia-using-applied-remote-sensing-for-sustainable-future-planning}
 
-\section{Abstract}\label{abstract}
+\section{Abstract}\label{abstract-1}
 
 Earth observation data can provide valuable assessments for monitoring
 the spatial extent of (un)sustainable urban growth of the world's cities
@@ -2655,7 +2430,7 @@ the Commission's estimates
 estimates using
 Landsat}\label{subpixel-land-cover-classification-for-improved-urban-area-estimates-using-landsat}
 
-\section{Abstract}\label{abstract-1}
+\section{Abstract}\label{abstract-2}
 
 Urban areas are Earth's fastest growing land use that impact
 hydrological and ecological systems and the surface energy balance. The
