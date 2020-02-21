@@ -15,9 +15,21 @@ link-citations: yes
 github-repo: andrewmaclachlan/Thesis
 description: ""
 ---
-# Welcome {-}
 
+
+```{r index-1, echo=FALSE}
+is_on_travis = identical(Sys.getenv("TRAVIS"), "true")
+is_online = curl::has_internet()
+is_html = knitr::is_html_output()
+```
+
+```{asis index-2, echo=is_html}
+# Welcome {-}
+This is the online home of *Geocomputation with R*, a book on geographic data analysis, visualization and modeling.
+<a href="https://www.crcpress.com/9781138304512"><img src="images/cover.png" width="250" height="375" alt="The geocompr book cover" align="right" style="margin: 0 1em 0 1em" /></a>
+ [Travis](https://travis-ci.org/Robinlovelace/geocompr), which provides information on its 'build status' as follows:
 [![Build Status](https://travis-ci.org/andrewmaclachlan/Thesis.svg?branch=master)](https://travis-ci.org/andrewmaclachlan/Thesis)
+```
 
 ## Abstract {-}
 
@@ -25,4 +37,3 @@ Urban areas are predicted to triple by 2030 in accommodating 68% of the global p
 
 This thesis presents a holistic policy-applicable approach for accurately monitoring and sustainably planning (re)development in relation to metropolitan and local level urban temperature dynamics. This is achieved through generating land cover maps from Earth observation data using a temporally consistent methodology with refinements to urban estimates based upon comparison to high resolution imagery. Variations between changes in land cover and land surface temperature are determined at the metropolitan level to aid sustainable urban growth plans. Temperature is then minimised at the local level through a modelling approach to optimally place vegetation with a proposed new development. The application area for this thesis is the Perth Metropolitan Region in Western Australia which has experienced sustained outward, non-strategic and low density expansion in response to booming natural resource sector. The presented methodology makes progress to aligning urban heat island mitigation efforts with global targets including the United Nation’s Sustainable Development Goals and New Urban Agenda, providing a reproducible method, transferable to other global metropolitan regions to improve sustainable city planning.
 
-[![Build Status](https://travis-ci.org/andrewmaclachlan/Thesis.svg?branch=master)](https://travis-ci.org/andrewmaclachlan/Thesis)
