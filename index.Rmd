@@ -38,7 +38,7 @@ This ensures its contents are reproducible and publicly accessible for people wo
 
 The online version of the book is hosted at [geocompr.robinlovelace.net](https://geocompr.robinlovelace.net) and kept up-to-date by [Travis](https://travis-ci.org/Robinlovelace/geocompr), which provides information on its 'build status' as follows:
 
-[![Build Status](https://travis-ci.org/Robinlovelace/geocompr.svg?branch=master)](https://travis-ci.org/Robinlovelace/geocompr)
+[![Build Status](https://travis-ci.org/andrewmaclachlan/Thesis.svg?branch=master)](https://travis-ci.org/andrewmaclachlan/Thesis)
 
 <!--The version of the book you are reading now was built on `r Sys.Date()` and was built `r if(is_on_travis) "on [Travis](https://travis-ci.org/Robinlovelace/geocompr)" else "locally"`.-->
 
