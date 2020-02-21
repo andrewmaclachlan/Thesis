@@ -2,7 +2,6 @@
 
 ## An expanding urban area
 
-[![Build Status](https://travis-ci.org/andrewmaclachlan/Thesis.svg?branch=master)](https://travis-ci.org/andrewmaclachlan/Thesis)
 
 Urban areas only cover 0.5% of Earth’s terrestrial surface and yet are one of the fastest growing land use types on a per area basis (Gashu and Egziabher, 2018; Powell et al., 2007; Sexton et al., 2013). Population growth is fuelling urbanisation with 55% of the planet’s 7.6 billion people residing in urban areas in 2018, and which is expected to accommodate up to 68% of the global population by 2050 as a result of an estimated additional 2.5 billion people (Powell and Roberts, 2010; Sexton et al., 2013; Sharifi and Lehmann, 2014; United Nations, 2018). Land use and land cover change represent the main driving force in global environmental change, especially anthropogenic modifications from vegetated to impervious surface material, through which water does not infiltrate (Sundarakumar et al., 2012; Tan et al., 2009; Verburg et al., 2015). In order to accommodate the expected increase in population, urban area is predicted to triple by 2030 based on current trends, increasing total global coverage to 0.9% of Earth’s terrestrial surface (2000 baseline of 652,825 km2) (Seto et al., 2012). 
 
