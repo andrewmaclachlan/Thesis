@@ -148,6 +148,7 @@ Table 5 5. Comparison between high (20 cm2) and moderate (30 m2) spatial resolut
 
 Subset	Kernel size (m)	R2	Scatter	Bias	Root Mean Square Error  (RMSE)
 East Beechboro	3030	0.41*	26.65	18.68	32.54
+
 	9090	0.68*	16.95	18.66	25.21
 	150150	0.75*	14.11	18.71	23.44
 	210210	0.80*	12.52	18.74	22.54
