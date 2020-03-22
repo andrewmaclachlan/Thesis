@@ -33,10 +33,7 @@ Chapter 6 uses 2003 and 2013 classified land cover data produced in chapter 4 al
 
 Chapter 7 draws upon chapter 6 analysis in demonstrating an improved localised UHI mitigation approach. Current global, metropolitan and localised mitigation policies and strategies often fail in planning practicality through a lack of specificities or inappropriate data use. Chapter 7 demonstrates the power of EO data and spatial modelling in reducing localised temperature for a proposed redevelopment in the City of Fremantle, WA through optimum vegetation placement using a scientifically valid and policy integratable approach, advancing current policy and academic mitigation attempts, aligning with the final objective of this thesis. 
 
-Chapter 8 critically discusses the research significance, methodological transferability, global applicability, current critical challenges and future research potential.   
+Chapter 8 critically discusses the research significance, methodological transferability, global applicability, current critical challenges and future research potential.
+
 Chapter 9 provides a summary of the key findings of the thesis in relation to the overall thesis aim. 
-
-
-
-
 

@@ -133,6 +133,7 @@ In classifying the Landsat data a multitude of alternative approaches were attem
 In a similar theme alternative data sources were considered and tested for classification validation such as GlobeLand30 (Chen et al., 2015) and the European Space Agency’s (ESA) Climate Change Initiative (CCI) annual global land cover (300 m) time series (1992-2015) (European Space Agency, 2017). However, these products are constrained by limited temporal frequency (e.g. GlobeLand30), inadequate resolution (e.g. CCI), their own internal errors (e.g. based upon an accuracy assessment) and selection of global reference data that could fail to represent the land cover heterogeneity within the Perth Metropolitan Region. Consequently this prior work and reasoning guided the analysis undertaken in chapter 4.
 
 ### Chapter data list
+
 This section provides an overview of the data presented and analysed within this chapter.
 
 Supplementary Table 4 3. Summary of the data, sources and applications used within chapter 4.
