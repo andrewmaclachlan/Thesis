@@ -1,0 +1,716 @@
+# References
+
+ABS, 2017. Australian Statistical Geography Standard (ASGS): Volume 4 - Significant Urban Areas, Urban Centres and Localities, Section of State, Australian Bureau of Statistics. Belconnen, ACT, Australia.
+
+ABS, 2015. Australian National Accounts 1988-2015, Australian Bureau of Statistics. Belconnen, ACT, Australia.
+
+ABS, 2011. Australian Population Grid 2011, Australian Bureau of Statistics. Belconnen, ACT, Australia.
+
+Abutaleb, K., Ngie, A., Darwish, A., Ahmed, M., Arafat, S., Ahmed, F., 2015. Assessment of Urban Heat Island Using Remotely Sensed Imagery over Greater Cairo , Egypt. Adv. Remote Sens. 4, 35–47. doi:10.4236/ars.2015.41004
+
+Adams, J., 1995. Classification of multispectral images based on fractions of endmembers: Application to land-cover change in the Brazilian Amazon. Remote Sens. Environ. 52, 137–154. doi:10.1016/0034-4257(94)00098-8
+
+AECOM Australia, 2012. Economic Assessment of the Urban Heat Island Effect, City of Melbourne. Melbourne, Australia.
+
+Aguilar, M. a, Vicente, R., Aguilar, F.J., Fernández, A., Saldaña, M.., 2012. Optimizing Object-Based Classification in Urban Environments Using Very High Resolution Geoeye-1 Imagery, in: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. Melbourne, Australia, pp. 99–104. doi:10.5194/isprsannals-I-7-99-2012
+
+Akbari, H., Rose, S., Taha, H., 2003. Analyzing the land cover of an urban environment using high-resolution orthophotos. Landsc. Urban Plan. 63, 1–14. doi:10.1016/S0169-2046(02)00165-2
+
+Angel, S., Parent, J., Civco, D.L., Blei, A., Potere, D., 2011. The dimensions of global urban expansion: Estimates and projections for all countries, 2000-2050. Prog. Plann. 75, 53–107. doi:10.1016/j.progress.2011.04.001
+
+Angiuli, E., Trianni, G., 2013. Urban Mapping in Landsat Images Based on Normalized Difference Spectral Vector. IEEE Geosci. Remote Sens. Lett. 11, 661–665. doi:10.1109/LGRS.2013.2274327
+
+Arnfield, A.J., 2003. Two decades of urban climate research: A review of turbulence, exchanges of energy and water, and the urban heat island. Int. J. Climatol. 23, 1–26. doi:10.1002/joc.859
+
+ARUP, The Rockefeller Foundation, 2015. City Resilience Framework—100 Resilient Cities, The Rockefeller Foundation. New York, NY, USA.
+
+Atkinson, P., Cutler, M., Lewis, H.G., 1997. Mapping sub-pixel proportional land cover with AVHRR imagery. Int. J. Remote Sens. 18, 917–935. doi:10.1080/014311697218836
+Atkinson, P.M., Lewis, P., 2000. Geostatistical classification for remote sensing: An introduction. Comput. Geosci. 26, 361–371. doi:10.1016/S0098-3004(99)00117-X
+
+Bagan, H., Yamagata, Y., 2014. Land-cover change analysis in 50 global cities by using a combination of Landsat data and analysis of grid cells. Environ. Res. Lett. 9, 1–13. doi:10.1088/1748-9326/9/6/064015
+
+Bagan, H., Yamagata, Y., 2012a. Remote Sensing of Environment Landsat analysis of urban growth : How Tokyo became the world ’ s largest megacity during the last 40 years. Remote Sens. Environ. 127, 210–222. doi:10.1016/j.rse.2012.09.011
+
+Bagan, H., Yamagata, Y., 2012b. Landsat analysis of urban growth: How Tokyo became the world’s largest megacity during the last 40years. Remote Sens. Environ. 127, 210–222. doi:10.1016/j.rse.2012.09.011
+
+Basu, R., Samet, J.M., 2002. Relation between elevated ambient temperature and mortality: A review of the epidemiologic evidence. Epidemiol. Rev. 24, 190–202. doi:10.1093/epirev/mxf007
+
+Batty, M., Besussi, E., Chin, N., 2003. Traffic, Urban Growth and Suburban Sprawl, Centre for Advanced Spatial Analysis. London.
+
+Bennett, B., 2001. What is a Forest? On the Vagueness of Certain Geographic Concepts. Topoi 20, 189–201. doi:10.1023/A:1017965025666
+
+Bettencourt, L., West, G., 2010. A unified theory of urban living. Nature 467, 9–10. doi:10.1038/467912a
+
+Bevington, J., Eguchi, R., Huyck, C., Dell’ Acqua, F., Iannelli, G., Jordan, C., Morley, J., Wieland, M., Parolai, S., Pittore, M., Porter, K., Saito, K., Sarabandi, P., Wright, A., Wyss, M., 2012. Exposure Data Development for the Global Earthquake Model: Inventory Data Capture Tools, in: 15th World Conference on Earthquake Engineering (15WCEE). Lisbon, Portugal.
+
+Beyer, K.M.M., Kaltenbach, A., Szabo, A., Bogar, S., Javier Nieto, F., Malecki, K.M., 2014. Exposure to neighborhood green space and mental health: Evidence from the survey of the health of wisconsin. Int. J. Environ. Res. Public Health 11, 3453–3472. doi:10.3390/ijerph110303453
+
+Bhatta, B., 2010. Causes and Consequences of Urban Growth and Sprawl, in: Analysis of Urban Growth and Sprawl from Remote Sensing Data. Springer Berlin Heidelberg, Berlin. doi:10.1007/978-3-642-05299-6
+
+Bhatta, B., Saraswati, S., Bandyopadhyay, D., 2010. Urban sprawl measurement from remote sensing data. Appl. Geogr. 30, 731–740. doi:10.1016/j.apgeog.2010.02.002
+
+Bibby, P., Brindley, P., 2013. Urban and Rural Area Definitions for Policy Purposes in England and Wales (v1.0), Government Statistical Service. University of Nottingham.
+
+Biehl, L., Landgrebe, D., 2002. MultiSpec — a tool for multispectral – hyperspectral image data. Comput. Geosci. 28, 1153–1159. doi:10.1016/S0098-3004(02)00033-X
+
+Blasi, M.G., Liuzzi, G., Masiello, G., Serio, C., Telesca, V., Venafra, S., 2016. Surface parameters from seviri observations through a kalman filter approach: Application and evaluation of the scheme to the southern Italy. Tethys 2016, 3–10. doi:10.3369/tethys.2016.13.01
+
+Boland, J., Philipp, C., 2013. Monitoring the Urban Climatic Trends and Impacts, RP2005: Urban Micro Climates. Melbourne, Australia.
+
+Braun, A.C., Weidner, U., Hinz, S., 2012. Classification in high-dimensional feature spaces-assessment using SVM, IVM and RVM with focus on simulated EnMAP data. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 5, 436–443. doi:10.1109/JSTARS.2012.2190266
+
+Braun, A.C., Weidner, U., Hinz, S., 2011. Vector Machines for Hyperspectral Classification - a Comparison, in: 2011 3rd Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, Lisbon, Portugal, pp. 1–4. doi:10.1109/WHISPERS.2011.6080861
+
+Breiman, L., 2001. Random forests. Mach. Learn. 45, 5–32. doi:10.1023/A:1010933404324
+
+Breiman, L., 1999. Random forests—random features. Statistics Department, University of California, Berkeley.
+
+Brockerhoff, M.P., 2000. An Urbanizing World. Popul. Bull. 55, 1–44. doi:10.1086/452394
+
+Brown, C.E., 1998. Applied Multivariate Statistics in Geohydrology and Related Sciences. Springer Berlin Heidelberg, Berlin. doi:10.1007/978-3-642-80328-4
+
+Brundtland, G.H., 1987. Our Common Future: Report of the World Commission on Environment and Development, United Nations Commission. Oxford University Press. doi:10.1080/07488008808408783
+
+Buchin, O., Hoelscher, M.-T., Meier, F., Nehls, T., Ziegler, F., 2015. Evaluation of the health-risk reduction potential of countermeasures to urban heat islands. Energy Build. doi:10.1016/j.enbuild.2015.06.038
+
+Buechley, R., Van Bruggen, J., Truppi, L., 1972. Heat Island = Death Island? Environ. Res. 92, 85–92. doi:10.1016/0013-9351(72)90022-9
+
+Bunting, P., 2017. Pre-processing of Remotely Sensed Imagery, in: Díaz-Delgado, R., Lucas, R., Hurford, C. (Eds.), The Roles of Remote Sensing in Nature Conservation: A Practical Guide and Case Studies. Springer International Publishing, Gewerbestrasse, pp. 39–63. doi:10.1007/978-3-319-64332-8_3
+
+Burnett, R.T., Brook, J.R., Yung, W.T., Dales, R.E., Krewski, D., 1997. Association between ozone and hospitalization for respiratory diseases in 16 Canadian cities. Environ. Res. 72, 24–31. doi:10.1006/enrs.1996.3685
+
+C40 Cities, 2018. Good Practice Guide: Cool Cities, C40 Cities Climate Leadership Group. London, UK.
+
+C40 Cities, ARUP, 2011. Climate Action in Megacities: C40 Cities Baseline and Opportunities, C40 Cities Climate Leadership Group. London, UK.
+
+Caccetta, P., Collings, S., Devereux, A., Hingee, K., Mcfarlane, D., Traylen, A., Wu, X., 2012. Urban Monitor: Enabling effective monitoring and management of urban and coastal environments using digital aerial photography Final Report – Transformation of aerial photography into digital raster information products. CSIRO, Australia.
+
+Caccetta, P., Collings, S., Hingee, K., McFarlane, D., Wu, X., 2011. Fine-Scale Monitoring of Complex Environments Using Remotely Sensed Aerial, Satellite, and Other Spatial Data, in: 2011 International Symposium on Image and Data Fusion. IEEE, pp. 1–5. doi:10.1109/ISIDF.2011.6024217
+
+Cai, Y., Zhang, H., Zheng, P., Pan, W., 2016. Quantifying the Impact of Land use/Land Cover Changes on the Urban Heat Island: A Case Study of the Natural Wetlands Distribution Area of Fuzhou City, China. Wetlands 36, 285–298. doi:10.1007/s13157-016-0738-7
+
+Camara, G., Cartaxo, R., Souza, M., Freitas, U.M., Garrido, J., 1996. Spring: Integrating Remote Sensing and gis by object-oriented data modelling. Comput. Graph. 20, 395–403. doi:10.1016/0097-8493(96)00008-8
+
+Camps-Valls, G., Gómez-Chova, L., Calpe-Maravilla, J., Martín-Guerrero, J.D., Soria-Olivas, E., Alonso-Chordá, L., Moreno, J., 2004. Robust support vector method for hyperspectral data classification and knowledge discovery. IEEE Trans. Geosci. Remote Sens. 42, 1530–1542. doi:10.1109/TGRS.2004.827262
+
+Candade, N., Dixon, B., 2004. Multispectral classification of Landsat images: a comparison of support vector machine and neural network classifiers, in: ASPRS Annual Meeting Proceedings. Denver, CO. Denver, Colorado, USA.
+
+Cao, X., Onishi, A., Chen, J., Imura, H., 2010. Quantifying the cool island intensity of urban parks using ASTER and IKONOS data. Landsc. Urban Plan. 96, 224–231. doi:10.1016/j.landurbplan.2010.03.008
+
+Castrence, M., Nong, D., Tran, C., Young, L., Fox, J., 2014. Mapping Urban Transitions Using Multi-Temporal Landsat and DMSP-OLS Night-Time Lights Imagery of the Red River Delta in Vietnam. Land 3, 148–166. doi:10.3390/land3010148
+
+Centre for Research on the Epidemiology of Disaster and the United Nations Office for Disaster Risk Reduction, 2016. Poverty & Death: Disaster Mortality 1996-2015, United Nations Office for Disaster Risk Reduction. doi:10.1007/s11069-012-0162-0.
+
+Chen, J., Chen, J., Liao, A., Cao, X., Chen, L., Chen, X., He, C., Han, G., Peng, S., Lu, M., Zhang, W., Tong, X., Mills, J., 2015. Global land cover mapping at 30m resolution: A POK-based operational approach. ISPRS J. Photogramm. Remote Sens. 103, 7–27. doi:10.1016/j.isprsjprs.2014.09.002
+
+Chen, L., Yu, B., Yang, F., Mayer, H., 2016. Intra-urban differences of mean radiant temperature in different urban settings in Shanghai and implications for heat stress under heat waves: A GIS-based approach. Energy Build. 130, 829–842. doi:10.1016/j.enbuild.2016.09.014
+
+Chen, T., de Jeu, R.A.M., Liu, Y.Y., van der Werf, G.R., Dolman, A.J., 2014. Using satellite based soil moisture to quantify the water driven variability in NDVI: A case study over mainland Australia. Remote Sens. Environ. 140, 330–338. doi:10.1016/j.rse.2013.08.022
+
+Cheng, G., Han, J., 2016. A survey on object detection in optical remote sensing images. ISPRS J. Photogramm. Remote Sens. 117, 11–28. doi:10.1016/j.isprsjprs.2016.03.014
+
+Cheval, S., Dumitrescu, A., 2014. The summer surface urban heat island of Bucharest (Romania) retrieved from MODIS images. Theor. Appl. Climatol. 121, 631–640. doi:10.1007/s00704-014-1250-8
+
+Chih-Wei, H., Chih-Chung, C., Chih-Jen, L., 2008. A Practical Guide to Support Vector Classification, Department of Computer Science, National Taiwan University. Taipeo, Taiwan. doi:10.1177/02632760022050997
+
+City of Fremantle, 2017. City of Fremantle Urban Forest Plan. Fremantle, Australia.
+
+City of Johannesburg Metropolitan Municipality, 2016. Spatial Development Framework 2040, City of Johannesburg: Department of Development Planning. Johannesburg, South Africa.
+
+City of Perth, 2006. Urban Forest Plan 2016-2036. City of Perth, Perth, Australia.
+
+Coll, C., Wan, Z., Galve, J.M., 2009. Temperature-based and radiance-based validations of the V5 MODIS land surface temperature product. J. Geophys. Res. Atmos. 114, 1–15. doi:10.1029/2009JD012038
+
+Collings, S., Caccetta, P., Campbell, N., 2011. Empirical Models for Radiometric Calibration of Digital Aerial Frame Mosaics. IEEE Trans. Geosci. Remote Sens. 49, 2573–2588. doi:10.1109/TGRS.2011.2108301
+
+Congalton, R.G., 2001. Accuracy assessment and validation of remotely sensed and other spatial information. Int. J. Wildl. Fire 10, 321–328. doi:10.1071/WF01031
+Cortes, C., Vapnik, V., 1995. Support-vector networks. Mach. Learn. 20, 273–297. doi:10.1007/BF00994018
+
+Coutts, A.M., Harris, R.J., Phan, T., Livesley, S.J., Williams, N.S.G., Tapper, N.J., 2016. Thermal infrared remote sensing of urban heat: Hotspots, vegetation, and an assessment of techniques for use in urban planning. Remote Sens. Environ. 186, 637–651. doi:10.1016/j.rse.2016.09.007
+
+Cracknell, M.J., Reading, A.M., 2014. Geological mapping using remote sensing data: A comparison of five machine learning algorithms, their response to variations in the spatial distribution of training data and the use of explicit spatial information. Comput. Geosci. 63, 22–33. doi:10.1016/j.cageo.2013.10.008
+
+Cunningham, S., Rogan, J., Martin, D., DeLauer, V., McCauley, S., Shatz, A., 2015. Mapping land development through periods of economic bubble and bust in Massachusetts using Landsat time series data. GIScience Remote Sens. 52. doi:10.1080/15481603.2015.1045277
+
+Daley, M.J., Phillips, N.G., 2006. Interspecific variation in nighttime transpiration and stomatal conductance in a mixed New England deciduous forest. Tree Physiol. 26, 411–419. doi:10.1093/treephys/26.4.411
+
+Das, S., Mirnalinee, T.T., Varghese, K., 2011. Use of salient features for the design of a multistage framework to extract roads from high-resolution multispectral satellite images. IEEE Trans. Geosci. Remote Sens. 49, 3906–3931. doi:10.1109/TGRS.2011.2136381
+De Morsier, F., Tuia, D., Borgeaud, M., Gass, V., Thiran, J.P., 2013. Semi-supervised novelty detection using SVM entire solution path. IEEE Trans. Geosci. Remote Sens. 51, 1939–1950. doi:10.1109/TGRS.2012.2236683
+
+Deilami, K., Kamruzzaman, M., Hayes, J., 2016. Correlation or Causality between Land Cover Patterns and the Urban Heat Island Effect? Evidence from Brisbane, Australia. Remote Sens. 8, 716. doi:10.3390/rs8090716
+
+Dell’Acqua, F., Gamba, P., Lisini, G., 2003. Improvements to urban area characterization using multitemporal and multiangle SAR images. IEEE Trans. Geosci. Remote Sens. 41, 1996–2004. doi:10.1109/TGRS.2003.814631
+
+Department for Communities and Local Government, 2015. English Housing Survey: Housing Stock Report, 2014-2015, English Housing Survey. London, UK. doi:10.1017/CBO9781107415324.004
+
+Department of Mines and Petroleum, 2015. Western Australian mineral and petroleum statistics digest 1984-2015, Perth: Government of Western Australia. Perth, WA, Australia.
+
+Dhakal, S.P., 2014. Glimpses of Sustainability in Perth , Western Australia : Capturing and Communicating the Adaptive Capacity of an Activist Group. Cons. Jounral Sustain. Dev. 11, 167–182. doi:10.7916/D8N879GB
+
+Donnay, J.-P., Unwin, D., 2001. Modelling Geographical Distributions in Urban Areas, in: Donnay, J.-P., Barnsley, M.J., Longley, P.A. (Eds.), Remote Sensing and Urban Analysis. Taylor & Francis, London, UK, pp. 189–207.
+
+Dorais, A., Cardille, J., 2011. Strategies for incorporating high-resolution google earth databases to guide and validate classifications: Understanding deforestation in Borneo. Remote Sens. 3, 1157–1176. doi:10.3390/rs3061157
+
+Downs, A., 2005. Smart Growth: Why We Discuss It More than We Do It. J. Am. Plan. Assoc. 71, 367–378. doi:10.1080/01944360508976707
+
+Du, Y., Teillet, P.M., Cihlar, J., 2002. Radiometric normalization of multitemporal high-resolution satellite images with quality control for land cover change detection. Remote Sens. Environ. 82, 123–134. doi:10.1016/S0034-4257(02)00029-9
+
+Earl, N., Simmonds, I., Tapper, N., 2016. Weekly cycles in peak time temperatures and urban heat island intensity. Environ. Res. Lett 11, 1–10. doi:10.1088/1748-9326/11/7/074003
+
+Eliot, M.J., Travers, A., Eliot, I., 2006. Morphology of a Low-Energy Beach, Como Beach, Western Australia. J. Coast. Res. 221, 63–77. doi:10.2112/05A-0006.1
+
+Environment Agency, 2016. Environment Agency LIDAR data, Environment Agency. Birmingham, UK.
+
+Esposito, F., Malerba, D., Semeraro, G., Kay, J., 1997. A comparative analysis of methods for pruning decision trees. IEEE Trans. Pattern Anal. Mach. Intell. 19, 476–491. doi:10.1109/34.589207
+
+Estrada, F., Botzen, W.J.W., Tol, R.S.J., 2017. A global economic assessment of city policies to reduce climate change impacts. Nat. Clim. Chang. 7, 403–406. doi:10.1038/nclimate3301
+
+European Space Agency, 2017. Land Cover Newsletter, ESA Climate Change Inititave. Paris, France.
+
+Fabrizi, R., Bonafoni, S., Biondi, R., 2010. Satellite and ground-based sensors for the Urban Heat Island analysis in the city of Rome. Remote Sens. 2, 1400–1415. doi:10.3390/rs2051400
+
+Feyisa, G.L., Meilby, H., Darrel Jenerette, G., Pauliet, S., 2016. Locally optimized separability enhancement indices for urban land cover mapping: Exploring thermal environmental consequences of rapid urbanization in Addis Ababa, Ethiopia. Remote Sens. Environ. 175, 14–31. doi:10.1016/j.rse.2015.12.026
+
+Field, A., 2009. Discovering Statistics Using SPSS (Introducing Statistical Methods series), 3rd ed. SAGE Publications Ltd, London, UK.
+
+Flood, N., 2014. Continuity of Reflectance Data between Landsat-7 ETM+ and Landsat-8 OLI, for Both Top-of-Atmosphere and Surface Reflectance: A Study in the Australian Landscape. Remote Sens. 6, 7952–7970. doi:10.3390/rs6097952
+
+Foody, G.M., Mathur, A., 2006. The use of small training sets containing mixed pixels for accurate hard image classification: Training on mixed spectral responses for classification by a SVM. Remote Sens. Environ. 103, 179–189. doi:10.1016/j.rse.2006.04.001
+
+Foody, G.M., Mathur, A., 2004. A relative evaluation of multiclass image classification by support vector machines. IEEE Trans. Geosci. Remote Sens. 42, 1335–1343. doi:10.1109/TGRS.2004.827257
+
+Franke, J., Roberts, D.A., Halligan, K., Menz, G., 2009. Hierarchical Multiple Endmember Spectral Mixture Analysis (MESMA) of hyperspectral imagery for urban environments. Remote Sens. Environ. 113, 1712–1723. doi:10.1016/j.rse.2009.03.018
+
+Franklin, M., Koutrakis, P., Schwartz, J., 2008. The Role of Particle Composition on the Association Between PM2.5 and Mortality. Epidemiology 19, 680–689. doi:10.1111/j.1743-6109.2008.01122.x.Endothelial
+
+Friedl, M.., McIver, D.., Hodges, J.C.., Zhang, X.., Muchoney, D., Strahler, A.., Woodcock, C.., Gopal, S., Schneider, A., Cooper, A., Baccini, A., Gao, F., Schaaf, C., 2002. Global land cover mapping from MODIS: algorithms and early results. Remote Sens. Environ. 83, 287–302. doi:10.1016/S0034-4257(02)00078-0
+
+Friedl, M.A., Sulla-Menashe, D., Tan, B., Schneider, A., Ramankutty, N., Sibley, A., Huang, X., 2010. MODIS Collection 5 global land cover: Algorithm refinements and characterization of new datasets. Remote Sens. Environ. 114, 168–182. doi:10.1016/j.rse.2009.08.016
+
+Frumkin, H., 2002. Urban sprawl and public health. Public Health Rep. 117, 201–217. doi:10.1016/S0033-3549(04)50155-3
+
+Fu, P., Weng, Q., 2016. Consistent land surface temperature data generation from irregularly spaced Landsat imagery. Remote Sens. Environ. 184, 175–187. doi:10.1016/j.rse.2016.06.019
+
+Fuller, R.M., Groom, G.B., Jones, A.R., 1994. The Land Cover Map of Great Britain: an automated classification of Landsat Thematic Mapper data. Photogramm. Eng. Remote Sensing 60, 553–562.
+
+Gaffin, S.R., Rosenzweig, C., Khanbilvardi, R., Parshall, L., Mahani, S., Glickman, H., Goldberg, R., Blake, R., Slosberg, R.B., Hillel, D., 2008. Variations in New York city’s urban heat island strength over time and space. Theor. Appl. Climatol. 94, 1–11. doi:10.1007/s00704-007-0368-3
+
+Gallo, K., Xian, G., 2014. Application of spatially gridded temperature and land cover data sets for urban heat island analysis. Urban Clim. 8, 1–10. doi:10.1016/j.uclim.2014.04.005
+
+Galster, G., Hanson, R., Ratcliffe, M.R., Wolman, H., Coleman, S., Freihage, J., 2001. Wrestling Sprawl to the Ground: Defining and measuring an elusive concept. Hous. Policy Debate 12, 681–717. doi:10.1080/10511482.2001.9521426
+
+Gao, B.-C., 1996. NDWI - a normalized difference water index for remote sensing of vegetation liquid water from space. Remote Sens. Environ. 58, 257–266. doi:10.1016/S0034-4257(96)00067-3
+
+Gascon, M., Zijlema, W., Vert, C., White, M.P., Nieuwenhuijsen, M.J., 2017. Outdoor blue spaces, human health and well-being: A systematic review of quantitative studies. Int. J. Hyg. Environ. Health 220, 1207–1221. doi:10.1016/j.ijheh.2017.08.004
+
+Gashu, K., Egziabher, T.G., 2018. Spatiotemporal trends of urban land use / land cover and green infrastructure change in two Ethiopian cities: Bahir Dar and Hawassa. Environ. Syst. Res. 7, 1–15. doi:10.1186/s40068-018-0111-3
+
+Gastellu-Etchegorry, J.P., Martin, E., Gascon, F., 2004. DART: A 3D model for simulating satellite images and studying surface radiation budget. Int. J. Remote Sens. 25, 73–96. doi:10.1080/0143116031000115166
+
+Geoscience Australia, 2015. Digital Elevation Model (DEM) of Australia Dervied From LiDAR 5 Metre Grid.
+
+Ghimire, B., Rogan, J., Miller, J., 2010. Contextual land-cover classification: incorporating spatial dependence in land-cover classification models using random forests and the Getis statistic. Remote Sens. Lett. 1, 45–54. doi:10.1080/01431160903252327
+
+Giorgio, G.A., Ragosta, M., Telesca, V., 2017. Climate variability and industrial-suburban heat environment in a mediterranean area. Sustain. 9, 1–10. doi:10.3390/su9050775
+
+Girshick, R., Donahue, J., Member, S., Darrell, T., Malik, J., 2015. Region-Based Convolutional Networks for Accurate Object Detection and Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. 38, 142–158. doi:10.1109/TPAMI.2015.2437384
+
+Gislason, P.O., Benediktsson, J.A., Sveinsson, J.R., 2006. Random forests for land cover classification. Pattern Recognit. Lett. 27, 294–300. doi:10.1016/j.patrec.2005.08.011
+
+Goggins, W.B., Chan, E.Y.Y., Ng, E., Ren, C., Chen, L., 2012. Effect modification of the association between short-term meteorological factors and mortality by urban heat islands in Hong Kong. PLoS One 7, 9–14. doi:10.1371/journal.pone.0038551
+
+Goldblatt, R., Stuhlmacher, M.F., Tellman, B., Clinton, N., Hanson, G., Georgescu, M., Wang, C., Serrano-Candela, F., Khandelwal, A.K., Cheng, W.H., Balling, R.C., 2018. Using Landsat and nighttime lights for supervised pixel-based image classification of urban land cover. Remote Sens. Environ. 205, 253–275. doi:10.1016/j.rse.2017.11.026
+
+Goodwin, N.R., Coops, N.C., Tooke, T.R., Christen, A., Voogt, J.A., 2009. Characterizing urban surface cover and structure with airborne lidar technology. Can. J. Remote Sens. 35, 297–309. doi:10.5589/m09-015
+
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R., 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sens. Environ. 202, 18–27. doi:10.1016/j.rse.2017.06.031
+
+Goudarzi, G., Geravandi, S., Foruozandeh, H., Babaei, A.A. kbar, Alavi, N., Niri, M.V. osoughi, Khodayar, M.J. avad, Salmanzadeh, S., Mohammadi, M.J. avad, 2015. Cardiovascular and respiratory mortality attributed to ground-level ozone in Ahvaz, Iran. Environ. Monit. Assess. 187, 1–9. doi:10.1007/s10661-015-4674-4
+
+Governor of Tokyo, 2008. Tokyo Metropolitan Environmental Master Plan., Tokyo Metropolitan Government. Tokyo, Japan.
+
+Gronlund, C.J., Berrocal, V.J., White-Newsome, J.L., Conlon, K.C., O’Neill, M.S., 2015. Vulnerability to extreme heat by socio-demographic characteristics and area green space among the elderly in Michigan, 1990-2007. Environ. Res. 136, 449–461. doi:10.1016/j.envres.2014.08.042
+
+Grose, M.J., 2007. Perth’s Stephenson‐Hepburn Plan of 1955. Aust. Plan. 44, 20–21. doi:10.1080/07293682.2007.9982608
+
+Guhathakurta, S., Gober, P., 2007. The impact of the Phoenix Urban Heat Island on residential water use. J. Am. Plan. Assoc. ©American Plan. Assoc. Chicagti. 73, 317–329. doi:10.1080/01944360708977980
+
+Guo, Y., Gasparrini, A., Armstrong, B., Li, S., Tawatsupa, B., Tobias, A., Lavigne, E., de Sousa Zanotti Stagliorio Coelho, M., Leone, M., Pan, X., Tong, S., Tian, L., Kim, H., Hashizume, M., Honda, Y., Guo, Y.-L.L., Wu, C.-F., Punnasiri, K., Yi, S.-M., Michelozzi, P., Saldiva, P.H.N., Williams, G., 2014. Global Variation in the Effects of Ambient Temperature on Mortality. Epidemiology 25, 781–789. doi:10.1097/EDE.0000000000000165
+
+Haashemi, S., Weng, Q., Darvishi, A., Alavipanah, S., 2016. Seasonal Variations of the Surface Urban Heat Island in a Semi-Arid City. Remote Sens. 8, 1–17. doi:10.3390/rs8040352
+
+Hansen, M.C., Loveland, T.R., 2012. A review of large area monitoring of land cover change using Landsat data. Remote Sens. Environ. 122, 66–74. doi:10.1016/j.rse.2011.08.024
+
+Hattis, D., Ogneva-Himmelberger, Y., Ratick, S., 2012. The spatial variability of heat-related mortality in Massachusetts. Appl. Geogr. 33, 45–52. doi:10.1016/j.apgeog.2011.07.008
+
+He, K., Zhang, X., Ren, S., Sun, J., 2016. Deep Residual Learning for Image Recognition, in: Computer Vision and Pattern Recognition. Las Vegas, USA. doi:10.3389/fpsyg.2013.00124
+Hepinstall-Cymerman, J., Coe, S., Hutyra, L.R., 2013. Urban growth patterns and growth management boundaries in the Central Puget Sound, Washington, 1986-2007. Urban Ecosyst. 16, 109–129. doi:10.1007/s11252-011-0206-3
+
+Hepinstall, J.A., Alberti, M., Marzluff, J.M., 2008. Predicting land cover change and avian community responses in rapidly urbanizing environments. Landsc. Ecol. 23, 1257–1276. doi:10.1007/s10980-008-9296-6
+
+Herold, M., Gardner, M., Hadley, B., Roberts, D., 2002. The spectral dimension in urban land cover mapping from high-resolution optical remote sensing data, in: Proceedings of the 3rd Symposium on Remote Sensing of Urban Areas. Istanbul, Turkey.
+
+Heuvelink, G.B.M., 1999. Propagation of error in spatial modeling with GIS. Geogr. Inf. Syst. Vol. 1 Princ. Tech. Issues 2, 207–217.
+
+Holst, J., Mayer, H., 2011. Impacts of street design parameters on human-biometeorological variables. Meteorol. Zeitschrift 20, 541–552. doi:10.1127/0941-2948/2011/0254
+
+Homer, C., Huang, C., Yang, L., Wylie, B., Coan, M., 2004. Development of a 2001 national land-cover database for the United States. Photogramm. Eng. Remote Sens. 70, 829–840. doi:10.14358/PERS.70.7.829
+
+Howard, L., 1988. The Climate of London. Cambridge University Press, London, UK.
+
+Hu, L., Brunsell, N.A., 2015. A new perspective to assess the urban heat island through remotely sensed atmospheric profiles. Remote Sens. Environ. 158, 393–406. doi:10.1016/j.rse.2014.10.022
+
+Hu, X., Weng, Q., 2009. Estimating impervious surfaces from medium spatial resolution imagery using the self-organizing map and multi-layer perceptron neural networks. Remote Sens. Environ. 113, 2089–2102. doi:10.1016/j.rse.2009.05.014
+
+Hu, Y., Jia, G., Hou, M., Zhang, X., Zheng, F., Liu, Y., 2015. The cumulative effects of urban expansion on land surface temperatures in metropolitan Jingjintang, China Yonghong. J. Geophys. Res. Atmos. Res. 9932–9943. doi:doi.org/10.1002/2015JD023653
+
+Huang, C., Davis, L.S., Townshend, J.R.G., 2002. An assessment of support vector machines for land cover classification. Int. J. Remote Sens. 23, 725–749. doi:10.1080/01431160110040323
+
+Imhoff, M.L., Lawrence, W.T., Stutzer, D.C., Elvidge, C.D., 1997. A technique for using composite DMSP/OLS “city lights” satellite data to map urban area. Remote Sens. Environ. 61, 361–370. doi:10.1016/S0034-4257(97)00046-1
+
+Imhoff, M.L., Zhang, P., Wolfe, R.E., Bounoua, L., 2010. Remote sensing of the urban heat island effect across biomes in the continental USA. Remote Sens. Environ. 114, 504–513. doi:10.1016/j.rse.2009.10.008
+
+Immitzer, M., Atzberger, C., Koukal, T., 2012. Tree species classification with Random forest using very high spatial resolution 8-band worldView-2 satellite data. Remote Sens. 4, 2661–2693. doi:10.3390/rs4092661
+
+Intergovernmental Committee On Surveying & Mapping, 2008. ICSM Guidelines for Digital Elevation Data, Geoscience Australia. Symonston, ACT, Australia.
+
+Jensen, J., 2009. Remote sensing of the environment: An earth resource perspective, 2nd ed. Prentice Hall, New Jersey, USA.
+
+Jensen, J., 2005. Introductory digital image processing, 3rd ed. Prentice Hall, New Jersey, USA.
+
+Jimenez-Munoz, J.C., Sobrino, J.A., Skokovic, D., Mattar, C., Cristobal, J., 2014. Land surface temperature retrieval methods from Landsat-8 thermal infrared sensor data. IEEE Geosci. Remote Sens. Lett. 11, 1840–1843. doi:10.1109/LGRS.2014.2312032
+
+Ju, J., Roy, D.P., Vermote, E., Masek, J., Kovalskyy, V., 2012. Continental-scale validation of MODIS-based and LEDAPS Landsat ETM+ atmospheric correction methods. Remote Sens. Environ. 122, 175–184. doi:10.1016/j.rse.2011.12.025
+
+Kalnay, E., Cai, M., 2003. Impact of urbanization and land-use change on climate. Nature 423, 528–531. doi:10.1038/nature01649.1.
+
+Kam Ng, M., Tang, W.-S., 2004. The Role of Planning in the Development of Shenzhen, China: Rhetoric and Realities. Eurasian Geogr. Econ. 45, 190–211. doi:10.2747/1538-7216.45.3.190
+
+Kelly, J.F., Weidmann, B., Walsh, M., 2011. The Housing We’d Choose, Grattan Institute. Melbourne, Australia.
+
+Kennewell, C., Shaw, B.J., 2008. Perth, Western Australia. Cities 25, 243–255. doi:10.1016/j.cities.2008.01.002
+
+Kenward, A., Yawitz, D., Sanford, T., 2014. Slug summer in the city: Hot and getting hotter, Climate Central. New Jersey, USA.
+
+Kikon, N., Singh, P., Singh, S.K., Vyas, A., 2016. Assessment of urban heat islands (UHI) of Noida City, India using multi-temporal satellite data. Sustain. Cities Soc. 22, 19–28. doi:10.1016/j.scs.2016.01.005
+
+Kim, D.-Y., Han, K.-S., 2013. Remotely sensed retrieval of midday air temperature considering atmospheric and surface moisture conditions. Int. J. Remote Sens. 34, 247–263. doi:10.1080/01431161.2012.712235
+
+Knight, S., Smith, C., Roberts, M., 2010. Mapping Manchester’s urban heat island. Weather 65, 188–193. doi:10.1002/wea.542
+
+Knorn, J., Rabe, A., Radeloff, V.C., Kuemmerle, T., Kozak, J., Hostert, P., 2009. Land cover mapping of large areas using chain classification of neighboring Landsat satellite images. Remote Sens. Environ. 113, 957–964. doi:10.1016/j.rse.2009.01.010
+
+Kotsiantis, S.B., Zaharakis, I.D., Pintelas, P.E., 2006. Machine learning: A review of classification and combining techniques. Artif. Intell. Rev. 26, 159–190. doi:10.1007/s10462-007-9052-3
+
+Kressler, F.P., Steinnocher, K.T., 2001. Monitoring urban development using satellite images, in: Proceedings of the Second International Symposium on Remote Sensing of Urban Areas. Regensburg, Germany.
+
+Krizhevsky, A., Sutskever, I., Hinton, G.E., 2012. ImageNet Classification with Deep Convolutional Neural Networks, in: Advances In Neural Information Processing Systems. Sacramento, USA.
+
+Lambin, E.F., Turner, B.L., Geist, H.J., Agbola, S.B., Angelsen, A., Folke, C., Bruce, J.W., Coomes, O.T., Dirzo, R., George, P.S., Homewood, K., Imbernon, J., Leemans, R., Li, X., Moran, E.F., Mortimore, M., Ramakrishnan, P.S., Richards, J.F., Steffen, W., Stone, G.D., Svedin, U., Veldkamp, T.A., 2001. The causes of land-use and land-cover change: moving beyond the myths 11, 261–269. doi:10.1016/S0959-3780(01)00007-3
+
+Lau, K.K.-L., Lindberg, F., Rayner, D., Thorsson, S., 2015. The effect of urban geometry on mean radiant temperature under future climate change: a study of three European cities. Int. J. Biometeorol. 59, 799–814. doi:10.1007/s00484-014-0898-1
+
+Lau, K.K.L., Ren, C., Ho, J., Ng, E., 2016. Numerical modelling of mean radiant temperature in high-density sub-tropical urban environment. Energy Build. 114, 80–86. doi:10.1016/j.enbuild.2015.06.035
+
+Li, C., Wang, J., Wang, L., Hu, L., Gong, P., 2014. Comparison of classification algorithms and training sample sizes in urban land classification with landsat thematic mapper imagery. Remote Sens. 6, 964–983. doi:10.3390/rs6020964
+
+Li, J., Song, C., Cao, L., Zhu, F., Meng, X., Wu, J., 2011. Impacts of landscape structure on surface urban heat islands: A case study of Shanghai, China. Remote Sens. Environ. 115, 3249–3263. doi:10.1016/j.rse.2011.07.008
+
+Li, X., Gong, P., Liang, L., 2015. A 30-year (1984–2013) record of annual urban dynamics of Beijing City derived from Landsat data. Remote Sens. Environ. 166, 78–90. doi:10.1016/j.rse.2015.06.007
+
+Li, Y., Zhang, H., Kainz, W., 2012. Monitoring patterns of urban heat islands of the fast-growing Shanghai metropolis, China: Using time-series of Landsat TM/ETM+ data. Int. J. Appl. Earth Obs. Geoinf. 19, 127–138. doi:10.1016/j.jag.2012.05.001
+
+Liang, S., Fang, H., Chen, M., 2001. Atmospheric correction of Landsat ETM+ land surface imagery-Part I: Methods. IEEE Trans. Geosci. Remote Sens. 39, 2490–2498. doi:10.1109/36.964986
+
+Lindberg, F., CSB, G., Gabey, A., Jarvi, L., Kent, C., Krave, N., Sun, T., Wallenberg, N., Ward, H., 2017. Urban Multi-scale Environmental Predictor (UMEP) Manual [WWW Document]. URL https://umep-docs.readthedocs.io/ (accessed 9.5.18).
+
+Lindberg, F., Grimmond, C.S.B., 2011. Nature of vegetation and building morphology characteristics across a city: Influence on shadow patterns and mean radiant temperatures in London. Urban Ecosyst. 14, 617–634. doi:10.1007/s11252-011-0184-5
+
+Lindberg, F., Grimmond, C.S.B., 2010. Continuous sky view factor maps from high resolution urban digital elevation models. Clim. Res. 42, 177–183. doi:10.3354/cr00882
+
+Lindberg, F., Grimmond, C.S.B., Gabey, A., Huang, B., Kent, C.W., Sun, T., Theeuwes, N.E., Järvi, L., Ward, H.C., Capel-Timms, I., Chang, Y., Jonsson, P., Krave, N., Liu, D., Meyer, D., Olofson, K.F.G., Tan, J., Wästberg, D., Xue, L., Zhang, Z., 2018. Urban Multi-scale Environmental Predictor (UMEP): An integrated tool for city-based climate services. Environ. Model. Softw. 99, 70–87. doi:10.1016/j.envsoft.2017.09.020
+
+Lindberg, F., Grimmond, C.S.B., Martilli, A., 2015a. Sunlit fractions on urban facets - Impact of spatial resolution and approach. Urban Clim. 12, 65–84. doi:10.1016/j.uclim.2014.11.006
+
+Lindberg, F., Holmer, B., Thorsson, S., 2008. SOLWEIG 1.0 - Modelling spatial variations of 3D radiant fluxes and mean radiant temperature in complex urban settings. Int. J. Biometeorol. 52, 697–713. doi:10.1007/s00484-008-0162-7
+
+Lindberg, F., Jonsson, P., Honjo, T., Wästberg, D., 2015b. Solar energy on building envelopes - 3D modelling in a 2D environment. Sol. Energy 115, 369–378. doi:10.1016/j.solener.2015.03.001
+
+Loughnan, M., Tapper, N., Phan, T., Lynch, K., Mcinnes, J., 2013. A spatial vulnerability analysis of urban populations during extreme heat events in Australian capital cities. National Climate Change Adaptation Research Facility, Southport, QLD, Australia.
+
+Lowe, S.A., 2016. An energy and mortality impact assessment of the urban heat island in the US. Environ. Impact Assess. Rev. 56, 139–144. doi:10.1016/j.eiar.2015.10.004
+
+Lu, D., Li, G., Kuang, W., Moran, E., 2014. Methods to extract impervious surface areas from satellite images. Int. J. Digit. Earth 7, 93–112. doi:10.1080/17538947.2013.866173
+
+Lu, D., Moran, E., Hetrick, S., 2011. Detection of impervious surface change with multitemporal Landsat images in an urban-rural frontier. ISPRS J. Photogramm. Remote Sens. 66, 298–306. doi:10.1016/j.isprsjprs.2010.10.010
+
+Lu, D., Weng, Q., 2006. Use of impervious surface in urban land-use classification. Remote Sens. Environ. 102, 146–160. doi:10.1016/j.rse.2006.02.010
+
+Lu, Y., Nakicenovic, N., Visbeck, M., Stevance, A.-S., 2015. Five priorities for the UN Sustainable Development Goals. Nature 520, 432–433. doi:10.1038/520432a
+
+Luo, J., Du, P., Alim, S., Xiangjian Xie, Xue, Z., 2014. Annual Landsat analysis of urban growth of Nanjing City from 1980 to 2013. 2014 Third Int. Work. Earth Obs. Remote Sens. Appl. 357–361. doi:10.1109/EORSA.2014.6927912
+
+MacLachlan, A., Biggs, E., Roberts, G., Boruff, B., 2017a. Urban Growth Dynamics in Perth, Western Australia: Using Applied Remote Sensing for Sustainable Future Planning. Land 1, 1–14. doi:10.3390/land6010009
+
+MacLachlan, A., Biggs, E., Roberts, G., Boruff, B., 2017b. Classified Earth observation data between 1990 and 2015 for the Perth Metropolitan Region, Western Australia using the Import Vector Machine algorithm. Pangaea. doi:10.1594/PANGAEA.871017
+
+MacLachlan, A., Biggs, E., Roberts, G., Boruff, B., 2017c. Urbanisation-Induced Land Cover Temperature Dynamics for Sustainable Future Urban Heat Island Mitigation. Urban Sci. 1, 1–21. doi:10.3390/urbansci1040038
+
+MacLachlan, A., Roberts, G., Biggs, E., Boruff, B., 2017d. Subpixel land-cover classification for improved urban area estimates using Landsat. Int. J. Remote Sens. 38, 5763–5792. doi:10.1080/01431161.2017.1346403
+
+Maiersperger, T.K., Scaramuzza, P.L., Leigh, L., Shrestha, S., Gallo, K.P., Jenkerson, C.B., Dwyer, J.L., 2013. Characterizing LEDAPS surface reflectance products by comparisons with AERONET, field spectrometer, and MODIS data. Remote Sens. Environ. 136, 1–13. doi:10.1016/j.rse.2013.04.007
+
+Malek, S., Bazi, Y., Alajlan, N., AlHichri, H., Melgani, F., 2014. Efficient framework for palm tree detection in UAV images. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 7, 4692–4703. doi:10.1109/JSTARS.2014.2331425
+
+Marfai, M.A., Sekaranom, A.B., Ward, P., 2014. Community responses and adaptation strategies toward flood hazard in Jakarta, Indonesia. Nat. Hazards 75, 1127–1144. doi:10.1007/s11069-014-1365-3
+
+Masek, J.G., Lindsay, F.E., Goward, S.N., 2000. Dynamics of urban growth in the Washington DC metropolitan area, 1973-1996, from Landsat observations. Int. J. Remote Sens. 21, 3473–3486. doi:10.1080/014311600750037507
+
+Masek, J.G., Vermote, E.F., Saleous, N.E., Wolfe, R., Hall, F.G., Huemmrich, K.F., Gao, F., Kutler, J., Lim, T., 2006. A Landsat Surface Reflectance Dataset. IEEE Geosci. Remote Sens. Lett. 3, 68–72. doi:10.1109/LGRS.2005.857030
+
+Mathieu, P., Aubrecht, C., 2018. Earth Observation Open Science and Innovation. Springer, Frascati, Italy and Washington, DC, USA. doi:10.1007/978-3-319-65633-5
+Mayor Bill de Blasio, 2014. Transforming New York City’s Buildings for a Low-Carbon Future, One City: Built to Last. New York.
+
+Mayor of London, 2017. The Spatial Development Strategy For Greater London Draft For Public Consultation, The London Plan. London, UK.
+
+Mayor of London, 2016a. The Spatial Development Strategy For London Consolidated With Alterations Since 2011, The London Plan. London, UK.
+
+Mayor of London, 2016b. London’s response to Climate change, The London Plan. London, UK.
+McPherson, T., 2016. Scientists must have a say in the future of cities. Nature 538, 165–166. doi:10.1038/538165a
+
+Melgani, F., Bruzzone, L., 2004. Classification of hyperspectral remote sensing images with support vector machines. IEEE Trans. Geosci. Remote Sens. 42, 1778–1790. doi:10.1109/TGRS.2004.831865
+
+Michele Acuto, 2018. Global science for city policy. Sci. policy forum 359, 165–166. doi:10.1126/science.aao2728
+
+Michelozzi, P., Accetta, G., De Sario, M., D’Ippoliti, D., Marino, C., Baccini, M., Biggeri, A., Anderson, H.R., Katsouyanni, K., Ballester, F., Bisanti, L., Cadum, E., Forsberg, B., Forastiere, F., Goodman, P.G., Hojs, A., Kirchmayer, U., Medina, S., Paldy, A., Schindler, C., Sunyer, J., Perucci, C.A., 2009. High temperature and hospitalizations for cardiovascular and respiratory causes in 12 european cities. Am. J. Respir. Crit. Care Med. 179, 383–389. doi:10.1164/rccm.200802-217OC
+
+Miller, R.B., Small, C., 2003. Cities from space: Potential applications of remote sensing in urban environmental research and policy. Environ. Sci. Policy 6, 129–137. doi:10.1016/S1462-9011(03)00002-9
+
+Møller-Jensen, L., Kofie, R.Y., Yankson, P.W.K., 2005. Large-area urban growth observations—a hierarchical kernel approach based on image texture. Geogr. Tidsskr. J. Geogr. 105, 39–47. doi:10.1080/00167223.2005.10649538
+
+Mountrakis, G., Im, J., Ogole, C., 2011. Support vector machines in remote sensing: A review. ISPRS J. Photogramm. Remote Sens. 66, 247–259. doi:10.1016/j.isprsjprs.2010.11.001
+
+Myint, S.W., Gober, P., Brazel, A., Grossman-Clarke, S., Weng, Q., 2011. Per-pixel vs. object-based classification of urban land cover extraction using high spatial resolution imagery. Remote Sens. Environ. 115, 1145–1161. doi:10.1016/j.rse.2010.12.017
+
+Myneni, R.B., Keeling, C.D., Tucker, C.J., Asrar, G., Nemani, R.R., 1997. Increased plant growth in the northern high latitudes from 1981 to 1991. Nature 386, 698–702. doi:10.1038/386698a0
+
+Nairn, J.R., Fawcett, R.J.B., 2014. The excess heat factor: A metric for heatwave intensity and its use in classifying heatwave severity. Int. J. Environ. Res. Public Health 12, 227–253. doi:10.3390/ijerph120100227
+
+Oke, T.R., 1982. The energetic basis of the urban heat island. Q. J. R. Meteorol. Soc. 108, 1–24. doi:10.1002/qj.49710845502
+
+Okujeni, A., Linden, S. Van Der, Hostert, P., 2015. Remote Sensing of Environment Extending the vegetation – impervious – soil model using simulated EnMAP data and machine learning. Remote Sens. Environ. 158, 69–80. doi:10.1016/j.rse.2014.11.009
+
+Okujeni, A., van der Linden, S., Jakimow, B., Rabe, A., Verrelst, J., Hostert, P., 2014. A comparison of advanced regression algorithms for quantifying urban land cover. Remote Sens. 6, 6324–6346. doi:10.3390/rs6076324
+
+Okujeni, A., van der Linden, S., Tits, L., Somers, B., Hostert, P., 2013. Support vector regression and synthetically mixed training data for quantifying urban land cover. Remote Sens. Environ. 137, 184–197. doi:10.1016/j.rse.2013.06.007
+
+Orru, H., Andersson, C., Ebi, K.L., Langner, J., Åström, C., Forsberg, B., 2013. Impact of climate change on ozone-related mortality and morbidity in Europe. Eur. Respir. J. 41, 285–294. doi:10.1183/09031936.00210411
+
+Osborn, D., Cutter, A., Ullah, F., 2015. Universal Sustainable Development Goals: Understanding the transformational challenge for developed countries, Universal Sustainable Development Goals. Lund, Sweeden.
+
+Otukei, J.R., Blaschke, T., 2010. Land cover change assessment using decision trees, support vector machines and maximum likelihood classification algorithms. Int. J. Appl. Earth Obs. Geoinf. 12, 27–31. doi:10.1016/j.jag.2009.11.002
+
+Pacifici, F., Chini, M., Emery, W.J., 2009. A neural network approach using multi-scale textural metrics from very high-resolution panchromatic imagery for urban land-use classification. Remote Sens. Environ. 113, 1276–1292. doi:10.1016/j.rse.2009.02.014
+
+Pal, M., 2005. Random forest classifier for remote sensing classification. Int. J. Remote Sens. 26, 217–222. doi:10.1080/01431160412331269698
+
+Pal, M., Mather, P.M., 2005. Support vector machines for classification in remote sensing. Int. J. Remote Sens. 26, 1007–1011. doi:10.1080/01431160512331314083
+
+Pal, M., Mather, P.M., 2003. An assessment of the effectiveness of decision tree methods for land cover classification. Remote Sens. Environ. 86, 554–565. doi:10.1016/S0034-4257(03)00132-9
+
+Pan, J., Wang, M., Li, D., Li, J., 2009. Automatic Generation of Seamline Network Using Area Voronoi Diagrams With Overlap. IEEE Trans. Geosci. Remote Sens. 47, 1737–1744. doi:10.1109/TGRS.2008.2009880
+
+Patel, N.N., Angiuli, E., Gamba, P., Gaughan, A., Lisini, G., Stevens, F.R., Tatem, A.J., Trianni, G., 2015. Multitemporal settlement and population mapping from Landsat using Google Earth Engine. Int. J. Appl. Earth Obs. Geoinf. 35, 199–208. doi:10.1016/j.jag.2014.09.005
+
+Patino, J.E., Duque, J.C., 2013. A review of regional science applications of satellite remote sensing in urban settings. Comput. Environ. Urban Syst. 37, 1–17. doi:10.1016/j.compenvurbsys.2012.06.003
+
+Peng, S., Piao, S., Ciais, P., Friedlingstein, P., Ottle, C., Bréon, F.-M., Nan, H., Zhou, L., Myneni, R.B., 2012. Surface urban heat island across 419 global big cities. Environ. Sci. Technol. 46, 696–703. doi:10.1021/es301245j
+
+Perry, M., Rowe, J.E., 2014. Fly-in, fly-out, drive-in, drive-out: The Australian mining boom and its impacts on the local economy. Local Econ. 30, 139–148. doi:10.1177/0269094214564957
+
+Phinn, S., Stanford, M., Scarth, P., Murray, A.T., Shyy, P.T., 2002. Monitoring the composition of urban environments based on the vegetation-impervious surface-soil (VIS) model by subpixel analysis techniques. Int. J. Remote Sens. 23, 4131–4153. doi:10.1080/01431160110114998
+
+Piao, S., Wang, X., Ciais, P., Zhu, B., Wang, T., Liu, J., 2011. Changes in satellite-derived vegetation growth trend in temperate and boreal Eurasia from 1982 to 2006. Glob. Chang. Biol. 17, 3228–3239. doi:10.1111/j.1365-2486.2011.02419.x
+Potere, D., Schneider, A., Angel, S., Civco, D., 2009. Mapping urban areas on a global scale: which of the eight maps now available is more accurate? Int. J. Remote Sens. 30, 6531–6558. doi:10.1080/01431160903121134
+
+Powell, R., Roberts, D., 2010. Characterizing Urban Land-Cover Change in Rondônia, Brazil: 1985 to 2000. J. Lat. Am. Geogr. 9, 183–211. doi:10.1353/lag.2010.0028
+Powell, R., Roberts, D., 2008. Characterizing variability of the urban physical environment for a suite of cities in Rondônia, Brazil. Earth Interact. 12, 1–32. doi:10.1175/2008EI246.1
+
+Powell, R., Roberts, D., Dennison, P., Hess, L., 2007. Sub-pixel mapping of urban land cover using multiple endmember spectral mixture analysis: Manaus, Brazil. Remote Sens. Environ. 106, 253–267. doi:10.1016/j.rse.2006.09.005
+
+Poznanska, A., Bayer, S., Bucher, T., 2013. Derivation of urban objects and their attributes for large-scale urban areas based on very high resolution UltraCam true orthophotos and nDSM – a case study Berlin , Germany, in: Proceedings of the SPIE. doi:10.1117/12.2030000
+
+Pravitasari, A.E., Saizen, I., Tsutsumida, N., Rustiadi, E., Pribadi, D.O., 2015. Local Spatially Dependent Driving Forces of Urban Expansion in an Emerging Asian Megacity: The Case of Greater Jakarta (Jabodetabek). J. Sustain. Dev. 8, 108–120. doi:10.5539/jsd.v8n1p108
+
+Qian, Y., Zhou, W., Yan, J., Li, W., Han, L., 2014. Comparing Machine Learning Classifiers for Object-Based Land Cover Classification Using Very High Resolution Imagery. Remote Sens. 7, 153–168. doi:10.3390/rs70100153
+
+Quintano, C., Fernández-Manso, A., Roberts, D.A., 2013. Multiple Endmember Spectral Mixture Analysis (MESMA) to map burn severity levels from Landsat images in Mediterranean countries. Remote Sens. Environ. 136, 76–88. doi:10.1016/j.rse.2013.04.017
+Ram, T.D., Wang, G., 2013. Probabilistic seismic hazard analysis in Nepal. Earthq. Eng. Eng. Vib. 12, 577–586.
+
+Revi, A., Satterthwaite, D.E., Aragón-Durand, F., Corfee-Morlot, J., Kiunsi, R., Pelling, M., Roberts, D., Solecki, W., 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, in: Field, C.B., Barros, V.R., D.J., D., Mach, K.J., Mastrandrea, M.D., Bilir, T.E., Chatterjee, M., Ebi, K.L., Estrada, Y.O., Genova, R.C., Girma, B., Kissel, E.S., Levy, A.N., MacCracken, S., Mastrandrea, P.R., White, L.L. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, UK and New York, NY, USA, pp. 535–612.
+
+Richter, R., Kellenberger, T., Kaufmann, H., 2009. Comparison of topographic correction methods. Remote Sens. 1, 184–196. doi:10.3390/rs1030184
+
+Ridd, M.K., 1995. Exploring a V-I-S model for urban ecosystem through remote sensing: a comparative ananomy for cities. Int. J. Remote Sens. 16, 2165–2185. doi:10.1080/01431169508954549
+
+Rigg, J., 1998. Rural-urban interactions, agriculture and wealth: a Southeast Asian perspective. Prog. Hum. Geogr. 22, 497–522. doi:10.1191/030913298667432980
+
+Rinner, C., Hussain, M., 2011. Toronto’s urban heat island-exploring the relationship between land use and surface temperature. Remote Sens. 3, 1251–1265. doi:10.3390/rs3061251
+
+Rizwan, A.M., Dennis, L.Y.C., Liu, C., 2008. A review on the generation, determination and mitigation of Urban Heat Island. J. Environ. Sci. 20, 120–128. doi:10.1016/S1001-0742(08)60019-4
+
+Rodriguez-Galiano, V.F., Chica-Olmo, M., Abarca-Hernandez, F., Atkinson, P.M., Jeganathan, C., 2012. Random Forest classification of Mediterranean land cover using multi-seasonal imagery and multi-seasonal texture. Remote Sens. Environ. 121, 93–107. doi:10.1016/j.rse.2011.12.003
+
+Roscher, R., Förstner, W., Waske, B., 2012. I2VM: Incremental import vector machines. Image Vis. Comput. 30, 263–278. doi:10.1016/j.imavis.2012.04.004
+
+Roscher, R., Waske, B., Forstner, W., 2010. Kernel discriminative Random fields for land cover classification, in: APR Workshop on Pattern Recognition in Remote Sensing. Istanbul, Turkey. doi:10.1109/PRRS.2010.5742801
+
+Roy, D.P., Kovalskyy, V., Zhang, H.K., Vermote, E.F., Yan, L., Kumar, S.S., Egorov, A., 2016. Characterization of Landsat-7 to Landsat-8 reflective wavelength and normalized difference vegetation index continuity. Remote Sens. Environ. 185, 57–70. doi:10.1016/j.rse.2015.12.024
+
+Santamouris, M., Cartalis, C., Synnefa, A., Kolokotsa, D., 2015. On the impact of urban heat island and global warming on the power demand and electricity consumption of buildings - A review. Energy Build. 98, 119–124. doi:10.1016/j.enbuild.2014.09.052
+
+Sawaya, K.E., Olmanson, L.G., Heinert, N.J., Brezonik, P.L., Bauer, M.E., 2003. Extending satellite remote sensing to local scales: Land and water resource monitoring using high-resolution imagery. Remote Sens. Environ. 88, 144–156. doi:10.1016/j.rse.2003.04.006
+
+Schäfer, P., Pflugmacher, D., Hostert, P., Leser, U., 2018. Classifying land cover from satellite images using time series analytics, in: CEUR Workshop Proceedings. Montreal, Canada.
+
+Schneider, A., 2012. Monitoring land cover change in urban and peri-urban areas using dense time stacks of Landsat satellite data and a data mining approach. Remote Sens. Environ. 124, 689–704. doi:10.1016/j.rse.2012.06.006
+
+Schneider, A., Friedl, M., Potere, D., 2010. Mapping global urban areas using MODIS 500-m data: New methods and datasets based on “urban ecoregions.” Remote Sens. Environ. 114, 1733–1746. doi:10.1016/j.rse.2010.03.003
+
+Schneider, A., Friedl, M.A., Potere, D., 2009. A new map of global urban extent from MODIS satellite data. Environ. Res. Lett. 4, 1–11. doi:10.1088/1748-9326/4/4/044003
+Schneider, A., Mertes, C.M., 2014. Expansion and growth in Chinese cities, 1978–2010. Environ. Res. Lett. 9, 024008. doi:10.1088/1748-9326/9/2/024008
+
+Schneider, A., Seto, K., Webster, D., 2005. Urban growth in Chengdu, western China: Application of remote sensing to assess planning and policy outcomes. Environ. Plan. B Plan. Des. 32, 323–345. doi:10.1068/b31142
+
+Schwarz, N., Schlink, U., Franck, U., Großmann, K., 2012. Relationship of land surface and air temperatures and its implications for quantifying urban heat island indicators - An application for the city of Leipzig (Germany). Ecol. Indic. 18, 693–704. doi:10.1016/j.ecolind.2012.01.001
+
+Seto, K., Fragkias, M., Guneralp, B., Reilly, M., 2011. A next-generation approach to the characterization of a non-model plant transcriptome. PLoS One 6, 1–9. doi:10.1371/ journal.pone.0023777
+
+Seto, K.C., Güneralp, B., Hutyra, L.R., 2012. Global forecasts of urban expansion to 2030 and direct impacts on biodiversity and carbon pools. Proc. Natl. Acad. Sci. U. S. A. 109, 16083–8. doi:10.1073/pnas.1211658109
+
+Sexton, J.O., Song, X.-P., Huang, C., Channan, S., Baker, M.E., Townshend, J.R., 2013. Urban growth of the Washington, D.C.–Baltimore, MD metropolitan region from 1984 to 2010 by annual, Landsat-based estimates of impervious cover. Remote Sens. Environ. 129, 42–53. doi:10.1016/j.rse.2012.10.025
+
+Shaddick, G., Thomas, M.L., Green, A., Brauer, M., van Donkelaar, A., Burnett, R., Chang, H.H., Cohen, A., Dingenen, R. Van, Dora, C., Gumy, S., Liu, Y., Martin, R., Waller, L.A., West, J., Zidek, J. V., Prüss-Ustün, A., 2018. Data integration model for air quality: a hierarchical approach to the global estimation of exposures to ambient air pollution. J. R. Stat. Soc. Ser. C Appl. Stat. 67, 231–253. doi:10.1111/rssc.12227
+
+Shalaby, A., Tateishi, R., 2007. Remote sensing and GIS for mapping and monitoring land cover and land-use changes in the Northwestern coastal zone of Egypt. Appl. Geogr. 27, 28–41. doi:10.1016/j.apgeog.2006.09.004
+
+Sharifi, E., Lehmann, S., 2014. Comparative Analysis of Surface Urban Heat Island Effect in Central Sydney. J. Sustain. Dev. 7, 23–34. doi:10.5539/jsd.v7n3p23
+Shastri, H., Barik, B., Ghosh, S., Venkataraman, C., Sadavarte, P., 2017. Flip flop of Day-night and Summer-Winter Surface Urban Heat Island Intensity in India. Sci. Rep. 7, 1–8. doi:10.1038/srep40178
+
+Shen, H., Huang, L., Zhang, L., Wu, P., Zeng, C., 2016. Long-term and fine-scale satellite monitoring of the urban heat island effect by the fusion of multi-temporal and multi-sensor remote sensed data: A 26-year case study of the city of Wuhan in China. Remote Sens. Environ. 172, 109–125. doi:10.1016/j.rse.2015.11.005
+
+Sheng, L., Lu, D., Huang, J., 2015. Impacts of land-cover types on an urban heat island in Hangzhou, China. Int. J. Remote Sens. 36, 1584–1603. doi:10.1080/01431161.2015.1019016
+
+Smargiassi, A., Goldberg, M.S., Plante, C., Fournier, M., Baudouin, Y., Kosatsky, T., 2009. Variation of daily warm season mortality as a function of micro-urban heat islands. J. Epidemiol. Community Health 63, 659–664. doi:10.1136/jech.2008.078147
+
+Smith, S.W., 2003. The Scientist and Engineer’s Guide to Digital Signal Processing; Chapter 15 - Moving Average Filters, Digital Signal Processing. California Technical Publishing, San Diego, USA.
+
+Snyder, W.C., Wan, Z., Zhang, Y., Feng, Y.-Z., 1998. Classification-based emissivity for land surface temperature measurement from space. Int. J. Remote Sens. 19, 2753–2774. doi:10.1080/014311698214497
+
+Sobrino, J.A., Jiménez-Muñoz, J.C., Paolini, L., 2004. Land surface temperature retrieval from LANDSAT TM 5. Remote Sens. Environ. 90, 434–440. doi:10.1016/j.rse.2004.02.003
+
+Song, X.-P., Sexton, J.O., Huang, C., Channan, S., Townshend, J.R., 2016. Characterizing the magnitude, timing and duration of urban growth from time series of Landsat-based estimates of impervious cover. Remote Sens. Environ. 175, 1–13. doi:10.1016/j.rse.2015.12.027
+
+Stathakis, D., Perakis, K., Savin, I., 2012. Efficient segmentation of urban areas by the VIBI. Int. J. Remote Sens. 33, 6361–6377. doi:10.1080/01431161.2012.687842
+
+Suarez-Rubio, M., Lookingbill, T.R., Elmore, A.J., 2012. Exurban development derived from Landsat from 1986 to 2009 surrounding the District of Columbia, USA. Remote Sens. Environ. 124, 360–370. doi:10.1016/j.rse.2012.03.029
+
+Suess, S., van der Linden, S., Leitao, P.J., Okujeni, A., Waske, B., Hostert, P., 2014. Import Vector Machines for Quantitative Analysis of Hyperspectral Data. Geosci. Remote Sens. Lett. IEEE 11, 449–453. doi:10.1109/LGRS.2013.2265102
+
+Sun, C., Wu, Z., Lv, Z., Yao, N., Wei, J., 2013. Quantifying different types of urban growth and the change dynamic in Guangzhou using multi-temporal remote sensing data. Int. J. Appl. Earth Obs. Geoinf. 21, 409–417. doi:10.1016/j.jag.2011.12.012
+
+Sun, G., Chen, X., Jia, X., Yao, Y., Wang, Z., 2015. Combinational Build-Up Index (CBI) for Effective Impervious Surface Mapping in Urban Areas. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. 1–12. doi:10.1109/JSTARS.2015.2478914
+
+Sundarakumar, K., Harika, M., Begum, S.K.A., Yamini, S., Balakrishna, K., 2012. Land Use And Land Cover Change Detection And Urban Sprawl Analysis Of Vijayawada City Using Multitemporal Landsat. Int. J. Eng. Sci. Technol. 4, 170–178.
+
+Suryahadi, A., Sumarto, S., 2003. Poverty and Vulnerability in Indonesia before and after the Economic Crisis. Asian Econ. J. 17, 45–64. doi:10.1111/1351-3958.00161
+
+Szyszkowicz, M., Rowe, B.H., 2016. Respiratory Health Conditions and Ambient Ozone : A Case-Crossover Study Insights in Chest Diseases. iMedPub Journals 1, 155–161. doi:10.4137/EHI.S40493
+
+Tan, J., Zheng, Y., Tang, X., Guo, C., Li, L., Song, G., Zhen, X., Yuan, D., Kalkstein, A.J., Li, F., Chen, H., 2010. The urban heat island and its impact on heat waves and human health in Shanghai. Int. J. Biometeorol. 54, 75–84. doi:10.1007/s00484-009-0256-x
+
+Tan, K.C., Lim, H.S., MatJafri, M.Z., Abdullah, K., 2009. Landsat data to evaluate urban expansion and determine land use/land cover changes in Penang Island, Malaysia. Environ. Earth Sci. 60, 1509–1521. doi:10.1007/s12665-009-0286-z
+
+Tang, J.X., Deng, C.W., Huang, G.B., Zhao, B.J., 2015. Compressed-Domain Ship Detection on Spaceborne Optical Image Using Deep Neural Network and Extreme Learning Machine. Ieee Trans. Geosci. Remote Sens. 53, 1174–1185. doi:10.1109/tgrs.2014.2335751
+
+Tao, C., Tan, Y., Cai, H., Tian, J., 2011. Airport detection from large IKONOS images using clustered sift keypoints and region information. IEEE Geosci. Remote Sens. Lett. 8, 128–132. doi:10.1109/LGRS.2010.2051792
+
+Taylor, M.S., Wheeler, B.W., White, M.P., Economou, T., Osborne, N.J., 2016. Urban street tree density and antidepressant prescription rates; A cross � sectional study in London, UK. Landsc. Urban Plan. 136, 174–179. doi:10.1016/j.landurbplan.2014.12.005
+
+The State of Indiana, 2017. 2016-2017 Strategic Plan Update for the Indiana Geographic Information Office, Indiana Geographic Information Office. Indiana, USA.
+
+Thompson, R.J., 2015. A model for the creation and progressive improvement of a digital cadastral data base. Land use policy 49, 565–576. doi:10.1016/j.landusepol.2014.12.016
+
+Tomlinson, C.J., Chapman, L., Thornes, J.E., Baker, C.J., 2012. Derivation of Birmingham’s summer surface urban heat island from MODIS satellite images. Int. J. Climatol. 32, 214–224. doi:10.1002/joc.2261
+
+Tomlinson, C.J., Chapman, L., Thornes, J.E., Baker, C.J., 2011. Including the urban heat island in spatial heat health risk assessment strategies: a case study for Birmingham, UK. Int. J. Health Geogr. 10, 1–14. doi:10.1186/1476-072X-10-42
+
+Tran, H., Uchihama, D., Ochi, S., Yasuoka, Y., 2006. Assessment with satellite data of the urban heat island effects in Asian mega cities. Int. J. Appl. Earth Obs. Geoinf. 8, 34–48. doi:10.1016/j.jag.2005.05.003
+
+Turner, B., Lambin, E., Reenberg, A., 2010. The emergence of land change science for global environmental change and sustainability. PNAS 103, 13070–13075. doi:10.1073/pnas.0704119104
+
+U.S. Census Bureau, 2018. United States Census Geography, United States Census Bureau. New York, NY, USA.
+
+U.S. Department of Commerce, 2013. 2013 Housing Profile: United States, U.S. Department of Housing and Uban Development. Washington, USA.
+
+UN-Habitat, 2016. City Prosperity Initiative Steps, City Prosperity Initiative. Nairobi, Kenya.
+
+UN-Habitat III, 2017. New Urban Agenda, Conference on Housing and Sustainable Urban Development (Habitat III). Nairobi, Kenya.
+
+UNISDR, 2015. Sendai Framework for Disaster Risk Reduction 2015 - 2030, in: Third World Conference on Disaster Risk Reduction, Sendai, Japan, 14-18 March 2015. Sendia, Japan.
+United Nations, Department of Economic and Social Affairs, P.D., 2014. World Urbanization Prospects: The 2014 Revision, Highlights (ST/ESA/SER.A/352). New York, NY, USA. doi:10.4054/DemRes.2005.12.9
+
+United Nations, 2018. World Urbanization Prospects: The 2018 Revision, Key Facts, United Nations Department of Economic and Social Affairs Population Division. New York, NY, USA.
+
+United Nations, 2016. The World’s Cities in 2016: Data Booklet., Economic and social affair. New York, NY, USA.
+
+United Nations Sustainable Development Goals, 2018a. Tier Classification for Global SDG Indicators, United Nations. New York, NY, USA.
+
+United Nations Sustainable Development Goals, 2018b. Target 11.3: By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries, metadata, United Nations. New York, NY, USA.
+
+United Nations Sustainable Development Goals, 2018c. Work Plans for Tier III Indicators; 11.7, United Nations. New York, NY, USA.
+
+United Nations Sustainable Development Goals, 2018d. Target 11.6: By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management, United Nations. New York, NY, USA.
+
+Uppala, S.M., Kållberg, P.W., Simmons, A.J., Andrae, U., da Costa Bechtold, V., Fiorino, M., Gibson, J.K., Haseler, J., Hernandez, A., Kelly, G.A., Li, X., Onogi, K., Saarinen, S., Sokka, N., Allan, R.P., Andersson, E., Arpe, K., Balmaseda, M.A., Beljaars, A.C.M., van de Berg, L., Bidlot, J., Bormann, N., Caires, S., Chevallier, F., Dethof, A., Dragosavac, M., Fisher, M., Fuentes, M., Hagemann, S., Hólm, E., Hoskins, B.J., Isaksen, L., Janssen, P.A.E.M., Jenne, R., McNally, A.P., Mahfouf, J.F., Morcrette, J.J., Rayner, N.A., Saunders, R.W., Simon, P., Sterl, A., Trenberth, K.E., Untch, A., Vasiljevic, D., Viterbo, P., Woollen, J., 2005. The ERA-40 re-analysis. Q. J. R. Meteorol. Soc. 131, 2961–3012. doi:10.1256/qj.04.176
+
+USA Environment Protection Agency, 2008. Reducing Urban Heat Islands Compendium of Strategies Urban Heat Island Basics, US EPA. U.S. Environmental Protection Agency, Washington, USA.
+
+USA Environmental Protection Agency, 2013. Reducing Urban Heat Islands Compendium of Strategies Heat Island Reduction Activities, US EPA. Washington, USA.
+
+USGS, 2015. Product Guide Provisional Landsat 8 Surface Reflectance Product, Department of the Interior U.S. Geological Survey. Virginia, USA.
+
+Van de Voorde, T., Jacquet, W., Canters, F., 2011. Mapping form and function in urban areas: An approach based on urban metrics and continuous impervious surface data. Landsc. Urban Plan. 102, 143–155. doi:10.1016/j.landurbplan.2011.03.017
+
+Van Donkelaar, A., Martin, R. V., Brauer, M., Hsu, N.C., Kahn, R.A., Levy, R.C., Lyapustin, A., Sayer, A.M., Winker, D.M., 2016. Global Estimates of Fine Particulate Matter using a Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors. Environ. Sci. Technol. 50, 3762–3772. doi:10.1021/acs.est.5b05833
+
+Vapnik, V., Chervonenkis, A., 1971. On the uniform convergence of relative frequencies of events to their probabilities. Theory Probab. Its Appl. XVI, 264–280. doi:10.1007/978-3-319-21852-6_3
+
+Varshney, A., Rajesh, E., 2014. A Comparative Study of Built-up Index Approaches for Automated Extraction of Built-up Regions From Remote Sensing Data. J. Indian Soc. Remote Sens. 42, 1–5. doi:10.1007/s12524-013-0333-9
+
+Verburg, P.H., Crossman, N., Ellis, E.C., Heinimann, A., Hostert, P., Mertz, O., Nagendra, H., Sikor, T., Erb, K., Golubiewski, N., Grau, R., Grove, M., Konaté, S., Meyfroidt, P., Parker, D.C., Roy, R., Shibata, H., Thomson, A., Zhen, L., 2015. Anthropocene Land system science and sustainable development of the earth system: A global land project perspective. Anthropocene 12, 29–41. doi:10.1016/j.ancene.2015.09.004
+
+Vermote, E., Tanre, D., Deuze, J.L., Herman, M., Morcrette, J.J., 1997. Second Simulation of the Satellite Signal in the Solar Spectrum (6S). 6S User Guide Version 2. Appendix III: Description of the subroutines. Maryland, USA.
+
+Vitousek, P., Mooney, H., Lubchenco, J., Melillo, J., 1997. Human Domination of Earth Ecosystems. Science (80-. ). 277, 494–498. doi:10.1126/science.277.5325.494
+
+Voogt, J., 2004. Urban heat islands: hotter cities [WWW Document]. Am. Inst. Biol. Sci. URL http://www.actionbioscience.org/environment/voogt.html (accessed 9.3.18).
+
+Voogt, J. a., Oke, T.R., 2003. Thermal remote sensing of urban climates. Remote Sens. Environ. 86, 370–384. doi:10.1016/S0034-4257(03)00079-8
+
+Wan, Z., 2013. New refinements and validation of the collection-6 MODIS land-surface temperature/emissivity product. Remote Sens. Environ. 140, 36–45. doi:10.1016/j.rse.2013.08.027
+
+Wan, Z., 2006. MODIS Land Surface Temperature Products Users’ Guide. ICESS, University of California, Santa Barbara, USA.
+
+Wan, Z., Dozier, J., 1996. A Generalized Split-Window Algorithm for Retrieving Land-Surface Temperature from Space. IEEE Trans. Geosci. Remote Sens. 34, 892–905.
+
+Wan, Z., Zhang, Y., Zhang, Q., Li, Z. liang, 2002. Validation of the land-surface temperature products retrieved from terra moderate resolution imaging spectroradiometer data. Remote Sens. Environ. 83, 163–180. doi:10.1016/S0034-4257(02)00093-7
+
+Wang, J., Huang, B., Fu, D., Atkinson, P., 2015. Spatiotemporal Variation in Surface Urban Heat Island Intensity and Associated Determinants across Major Chinese Cities. Remote Sens. 7, 3670–3689. doi:10.3390/rs70403670
+
+Wang, L., Liu, D., Wang, Q., Wang, Y., 2013. Spectral Unmixing Model Based on Least Squares Support Vector Machine With Unmixing Residue Constraints 10, 1592–1596. doi:10.1109/LGRS.2013.2262371
+
+Wanner, W., Li, X., Strahler,  a. H., 1995. On the derivation of kernels for kernel-driven models of bidirectional reflectance. J. Geophys. Res. 100, 21,077-21,089. doi:10.1029/95JD02371
+
+Watanachaturaporn, P., Arora, M.K., Varshney, P.K., 2008. Multisource classification using support vector machines: An empirical comparison with decision tree and neural network classifiers. Photogramm. Eng. Remote Sensing 74, 239–246. doi:10.14358/PERS.74.2.239
+
+Watson, I.D., Johnson, G.T., 1987. Graphical estimation of sky view-factors in urban environments. J. Climatol. 7, 193–197. doi:10.1002/joc.3370070210
+
+Weedon, G.P., Balsamo, G., Bellouin, N., Gomes, S., Best, M.J., Viterbo, P., 2014. Data methodology applied to ERA-Interim reanalysis data. Water Resour. Res. 50, 7505–7514. doi:10.1002/2014WR015638
+
+Weedon, G.P., Gomes, S., Adam, J.C., Bellouin, N., Viterbo, P., Bellouin, N., Boucher, O., Best, M., 2010. The Watch Forcing Data 1958-2001: a Meteorological Forcing Dataset for Land Surface-and Hydrological-Models, WATCH Technical Report. Oxford, UK.
+
+Weedon, G.P., Gomes, S., Viterbo, P., Shuttleworth, W.J., Blyth, E., Österle, H., Adam, J.C., Bellouin, N., Boucher, O., Best, M., 2011. Creation of the WATCH Forcing Data and Its Use to Assess Global and Regional Reference Crop Evaporation over Land during the Twentieth Century. J. Hydrometeorol. 12, 823–848. doi:10.1175/2011JHM1369.1
+
+Weeks, J., 2010. Defining Urban Areas, in: Rashed, T., Jürgens, C. (Eds.), Remote Sensing of Urban and S Areas. Springer, Austin, USA and Bochum, Germany.
+
+Weng, F., Pu, R., 2013. Mapping and assessing of urban impervious areas using multiple endmember spectral mixture analysis: a case study in the city of Tampa, Florida. Geocarto Int. 28, 594–615. doi:10.1080/10106049.2013.764355
+
+Weng, Q., 2001. Modeling urban growth effects on surface runoff with the integration of remote sensing and GIS. Environ. Manage. 28, 737–748. doi:10.1007/s002670010258
+
+Weng, Q., Lu, D., Schubring, J., 2004. Estimation of land surface temperature-vegetation abundance relationship for urban heat island studies. Remote Sens. Environ. 89, 467–483. doi:10.1016/j.rse.2003.11.005
+
+Western Australian Planning Commission, 2016a. Western Australian Planning Commission Urban Growth Monitor: Perth Metropolitan, Peel and Greater Bunbury Regions 2016, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2016b. Draft State Planning Policy 1, State Planning Framework (Variation No. 3), The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2015a. Perth and Peel @ 3.5 million, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2015b. Central Sub-regional Planning Framework, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2015c. North-West Sub-regional Planning Framework, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2015d. North-East Sub-regional Planning Framework, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2015e. South Metropolitan Peel Planning Framework, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2014. Delivering Directions 2031 Report Card 2014, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2013a. The Housing We’d Choose: A study for Perth and Peel, The Government of Western Australia Department of Housing and Department of Planning. Perth,WA, Australia.
+
+Western Australian Planning Commission, 2013b. The Housing We’d Choose: A study for Perth and Peel summary report, The Government of Western Australia Department of Planning and Housing. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2012. Urban Growth Monitor: Perth Metropolitan, Peel and Greater Bunbury Regions 2012, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2010a. Directions 2031 and beyond: metropolitan planning beyond the horizon, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2010b. Urban Growth Monitor: Perth Metropolitan, Peel and Greater Bunbury Regions 2010, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2010c. Development Control Policy 1.9, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Western Australian Planning Commission, 2009. Urban Growth Monitor: Perth Metropolitan, Peel and Greater Bunbury Regions 2009, The Government of Western Australia Department of Planning. Perth, WA, Australia.
+
+Wilson, E.H., Hurd, J.D., Civco, D.L., Prisloe, M.P., Arnold, C., 2003. Development of a geospatial model to quantify, describe and map urban growth. Remote Sens. Environ. 86, 275–285. doi:10.1016/S0034-4257(03)00074-9
+
+Wong, K. V., Paddon, A., Jimenez, A., 2013. Review of World Urban Heat Islands: Many Linked to Increased Mortality. J. Energy Resour. Technol. 135, 1–11. doi:10.1115/1.4023176
+
+Wu, C., Murray, A.T., 2003. Estimating impervious surface distribution by spectral mixture analysis. Remote Sens. Environ. 84, 493–505. doi:10.1016/S0034-4257(02)00136-0
+
+Xian, G., Homer, C., Bunde, B., Danielson, P., Dewitz, J., Fry, J., Pu, R., 2012. Quantifying urban land cover change between 2001 and 2006 in the Gulf of Mexico region. Geocarto Int. 27, 479–497. doi:10.1080/10106049.2011.652675
+
+Xie, Q., Zhou, Z., 2015. Impact Of Urbanization On Urban Heat Island Effect Based On TM Imagery In Wuhan, China. Environ. Eng. Manag. J. 14, 647–655.
+
+Xie, Q., Zhou, Z., Teng, M., Wang, P., 2012. A multi-temporal Landsat TM data analysis of the impact of land use and land cover changes on the urban heat island effect. J. Food, Agric. Environ. 10, 803–809. doi:10.1504/IJEP.2014.067693
+
+Xu, D., Chen, R., 2017. Comparison of urban heat island and urban reflection in Nanjing City of China. Sustain. Cities Soc. 31, 26–36. doi:10.1016/j.scs.2017.01.017
+
+Xu, H., 2008. A new index for delineating built‐up land features in satellite imagery. Int. J. Remote Sens. 29, 4269–4276. doi:10.1080/01431160802039957
+
+Yang, J., Wang, Z.-H., Kaloush, K.E., 2015. Environmental impacts of reflective materials: Is high albedo a ‘silver bullet’ for mitigating urban heat island? Renew. Sustain. Energy Rev. 47, 830–843. doi:10.1016/j.rser.2015.03.092
+
+Yang, X., Lo, C.P., 2000. Relative radiometric normalization performance for change detection from multi-date satellite images. Photogramm. Eng. Remote Sensing 66, 967–980.
+
+Yu, W., Vaneckova, P., Mengersen, K., Pan, X., Tong, S., 2010. Is the association between temperature and mortality modified by age, gender and socio-economic status? Sci. Total Environ. 408, 3513–3518. doi:10.1016/j.scitotenv.2010.04.058
+
+Yuan, F., Bauer, M.E., 2007. Comparison of impervious surface area and normalized difference vegetation index as indicators of surface urban heat island effects in Landsat imagery. Remote Sens. Environ. 106, 375–386. doi:10.1016/j.rse.2006.09.003
+
+Yuan, F., Sawaya, K.E., Loeffelholz, B.C., Bauer, M.E., 2005. Land cover classification and change analysis of the Twin Cities (Minnesota) Metropolitan Area by multitemporal Landsat remote sensing. Remote Sens. Environ. 98, 317–328. doi:10.1016/j.rse.2005.08.006
+
+Zha, Y., Gao, J., Ni, S., 2003. Use of normalized difference built-up index in automatically mapping urban areas from TM imagery. Int. J. Remote Sens. 24, 583–594. doi:10.1080/01431160304987
+
+Zhang, H., Qi, Z.F., Ye, X.Y., Cai, Y. Bin, Ma, W.C., Chen, M.N., 2013. Analysis of land use/land cover change, population shift, and their effects on spatiotemporal patterns of urban heat islands in metropolitan Shanghai, China. Appl. Geogr. 44, 121–133. doi:10.1016/j.apgeog.2013.07.021
+
+Zhang, P., Imhoff, M.L., Bounoua, L., Wolfe, R.E., 2012. Exploring the influence of impervious surface density and shape on urban heat islands in the northeast United States using MODIS and Landsat. Can. J. Remote Sens. 38, 441–451. doi:10.5589/m12-036
+
+Zhao, G., Dong, J., Liu, J., Zhai, J., Cui, Y., He, T., Xiao, X., 2017. Different Patterns in Daytime and Nighttime Thermal Effects of Urbanization in Beijing-Tianjin-Hebei Urban Agglomeration. Remote Sens. 9, 1–15. doi:10.3390/rs9020121
+
+Zhao, S., Zhou, D., Liu, S., 2016. Data concurrency is required for estimating urban heat island intensity. Environ. Pollut. 208, 118–124. doi:10.1016/j.envpol.2015.07.037
+
+Zhou, D., Zhang, L., Hao, L., Sun, G., Liu, Y., Zhu, C., 2016. Spatiotemporal trends of urban heat island effect along the urban development intensity gradient in China. Sci. Total Environ. 544, 617–626. doi:10.1016/j.scitotenv.2015.11.168
+
+Zhou, D., Zhao, S., Liu, S., Zhang, L., Zhu, C., 2014. Surface urban heat island in China’s 32 major cities: Spatial patterns and drivers. Remote Sens. Environ. 152, 51–61. doi:10.1016/j.rse.2014.05.017
+
+Zhou, D., Zhao, S., Zhang, L., Sun, G., Liu, Y., 2015. The footprint of urban heat island effect in China. Nat. Sci. reports 5, 1–11. doi:10.1038/srep11160
+
+Zhou, W., Troy,  a., 2008. An object‐oriented approach for analysing and characterizing urban landscape at the parcel level. Int. J. Remote Sens. 29, 3119–3135. doi:10.1080/01431160701469065
+
+Zhu, G., Blumberg, D.G., 2002. Classification using ASTER data and SVM algorithms; Remote Sens. Environ. 80, 233–240. doi:10.1016/S0034-4257(01)00305-4
+
+Zhu, J., Hastie, T., 2005. Kernel Logistic Regression and the Import Vector Machine. J. Comput. Graph. Stat. 14, 185–205. doi:10.1198/106186005X25619
+
+Zhu, X.X., Tuia, D., Mou, L., Xia, G.S., Zhang, L., Xu, F., Fraundorfer, F., 2017. Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources. IEEE Geosci. Remote Sens. Mag. 5, 8–36. doi:10.1109/MGRS.2017.2762307
+
+Zhu, Z., Woodcock, C.E., 2014. Continuous change detection and classification of land cover using all available Landsat data. Remote Sens. Environ. 144, 152–171. doi:10.1016/j.rse.2014.01.011
+
+Zhu, Z., Woodcock, C.E., Rogan, J., Kellndorfer, J., 2012. Assessment of spectral, polarimetric, temporal, and spatial dimensions for urban and peri-urban land cover classification using Landsat and SAR data. Remote Sens. Environ. 117, 72–82. doi:10.1016/j.rse.2011.07.020
+

@@ -1,0 +1,83 @@
+# Appendix A PhD logistics and further activities 
+
+## PhD logistics 
+
+During the PhD candidature two visits to the University of Western Australia (UWA) were undertaken. During January of the first year (2015) of PhD candidature Andrew MacLachlan undertook a three month visit hosted by Dr Boruff, partly funded by the University of Southampton study abroad scheme. The visit permitted project refinement based on Dr Boruff’s localised expertise and identification of pertinent geographic challenges within Perth. During the second year (2016) of candidature the original primary PhD supervisor, Dr Biggs, relocated to UWA taking up the position of Lecturer in Geography at the UWA School of Agriculture and Environment. Subsequently Andrew MacLachlan was sponsored for a training and research visa by Dr Boruff, Dr Biggs and the UWA School of Agriculture and Environment from May 2016 to May 2017, with part funding from the World University Network (WUN) researcher mobility programme. As a consequence of supervisory relocation and University regulations Dr Roberts was listed as the primary supervisor for the remainder of the candidature as Andrew’s candidature remained registered at the University of Southampton. Dr Biggs has remained a visiting academic at the University of Southampton throughout the duration of candidature and was the second listed supervisor. However, supervision remained at a 50-50% split. Dr Boruff continued to contribute as an external advisor. 
+
+## Further PhD activities 
+
+Whilst this thesis details the academic requirement of the PhD, throughout the candidature a variety of additional activities have been undertaken, relevant to professional development and the holistic PhD qualification. These include presenting at academic conferences, attainment of further qualifications, successful procurement of additional funding to support research activities alongside teaching and additional research experience detailed below. 
+
+### Academic conferences 
+
+8/4/2018 – 13/04/2018: European Geosciences Union General Assembly, Vienna. Presentation:  Earth Observation for Planning Sustainable Cities.       
+
+8/12/2017: Economic and Social Research Council Doctoral Training Centre Third Year Conference, University of Southampton. Poster: Urban Dynamics from Space for Sustainable Future Planning. 
+
+21/10/2016: Western Australia Surveying and Spatial Science Institute, Perth, University of Western Australia. Presentation: Busting the boom: Implications of Western Australia’s economic downturn on urban expansion of the world’s most isolated capital city. 
+
+28/06/2016 – 01/07/2016: Australian Institute of Geographers, Adelaide. Presentation: Busting the boom: Implications of Western Australia’s economic downturn on urban expansion of the world’s most isolated capital city. 
+
+8/09/2015 – 11/09/2015: UK Remote Sensing and Photogrammetry Society, University of Southampton. Poster: Deconstructing the mixel: a temporal exploration of land use change in Perth. 
+
+11/06/2015 – 12/06/2015: Department of Geography and Environment Graduate School Conference, University of Southampton. Poster: Exploration of the current state, pressure and the potential risks of urban expansion in the Greater Perth Region of Western Australia. 
+
+### Qualifications 
+
+11/2015 – 04/2016: Association (Associate Fellow) to the Higher Education Academy (Distinction), through completion of Introduction to Learning and Teaching for Researchers considered the equivalent of the Postgraduate Certificate in Academic Practice module 1. 
+
+### Teaching 
+
+2014 – 2018: Module demonstrator for masters and undergraduate students in Geographical Information Systems and Remote Sensing modules undertaken at the University of Southampton and on field courses in Tenerife and Cambodia.  
+
+2016 – 2017: Module tutor for masters and undergraduate students in Geographical Information Systems and Remote Sensing modules at the University of Western Australia. 
+
+### Tutoring (University of Western Australia) 
+
+ENVT4409: Remote Sensing of Environment (around 40, mostly MSc students). 
+
+ENVT4411: Geographic Information Systems Applications (around 60, mostly MSc students) 
+
+ENVT5511: Advanced Geographic Information Systems for Environmental Management (around 70, mostly MSc students). 
+
+### Marking (University of Western Australia) 
+
+GEOG2201: Geographic Information Systems (around 120 undergraduate students). 
+Demonstrating (University of Southampton) 
+
+GEOG1011: Dangerous World (around 120 undergraduate students). 
+
+GEOG2010: Introductory GIS (around 120 undergraduate students). 
+
+GEOG2033: Research design, methods and techniques in Physical Geography, Tenerife Field Course 06/03/2016 – 13/03/2016 (around 60 undergraduate students). 
+
+GEOG3006: Advanced Geographic Information Systems (around 40 undergraduate students). 
+
+GEOG6061: Core Skills in GIS (around 20 MSc students).
+
+GEOG6077: Programming Skills in Remote Sensing (around 10 MSc students). 
+
+GEOG3069 (Undergraduate) / GEOG6104 (MSc): Water, People and Environment, Cambodia Field Course 25/01/2018 – 06/02/2018, including designing project material (around 30 students). 
+### Training 
+
+13/05/2018 – 14/05/2018: Natural Environment Research Council Airborne Research Facility workshop, British Antarctic Survey, Cambridge. 
+
+09/02/2018: Google Earth Engine training: beginner and advanced sessions, Google, London.
+
+09/01/2017 – 20/01/2017: Economic and Social Research Council collaborative exchange: University of Western Australia.  
+
+22/03/2016 – 24/03/2016: Economic and Social Research Council Cumberland Lodge residential research training, Cumberland Lodge, Windsor. 
+
+11/11/2015 – 27/04/2016: Association (Associate Fellow) to the Higher Education Academy (Distinction) through completion of Introduction to Learning and Teaching for Researchers equivalent to the Postgraduate Certificate in Academic Practice module 1, University of Southampton. 
+
+09/12/2014 – 11/12/2014: An Introduction to data handling, exploration, and analysis in Matlab ESRC National Centre for Research Methods, University of Southampton. 
+
+### Additional experience 
+
+11/06/2017 – 18/06/2018 (Valencia) and 31/07/2018 – 04/08/2018 (New Forest): Contributor in the collection of Valencia, Spain and New Forest, UK fieldwork data for the publication: Brown, L. and Dash, J. Validation of biophysical vegetation products derived from the optical instruments on-board ESA's Sentinel-2 and -3 currently under development, University of Southampton. 
+
+13/06/2017 – 23/06/2017: Co-author of Dr Alan Smith’s submitted publication: Demonstrating the global potential of a high-resolution spatiotemporal population modelling framework, funded by the World University Network, University of Western Australia and University of Southampton.   
+
+04/05/2016: Awarded World University Network researcher mobility funding, University of Southampton 
+ 
+ 

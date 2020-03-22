@@ -1,0 +1,29 @@
+# Appendix B Data acknowledgements and copyright statements 
+
+The acknowledgement and copyright statements listed here are provided in order of appearance/use throughout this thesis.  
+
+Population and digital boundary data were provided courtesy of the Australian Bureau of Statistics under a Creative Commons Attribution 4.0 international license, © Commonwealth of Australia, http://www.abs.gov.au. The latter is now available through https://data.gov.au/.  
+
+Natural resource data were provided by the Government of Western Australia, Department of Mines and Petroleum from within their annual statistic digest documentation, © the State of Western Australia.  
+
+Landsat data products were retrieved from the United States Geological Survey Earth Explorer system, courtesy of the United States Geological Survey, 12201 Sunrise Valley Drive Reston, VA 20192, USA, https://earthexplorer.usgs.gov.
+
+Google Earth data (read only) used for Landsat validation over the Perth Metropolitan region remains the copyright (©) of Digital Globe and the Centre for Space Studies/Airbus 2018. 
+
+The comparison urban estimate data were provided by the Western Australian Planning Commission, with their organisational logo and text supplied on relevant figure acknowledging the licensor as the source of the information, as required by the data license agreement.   
+
+Classified Landsat data over the Perth Metropolitan Region (produced and further analysed within this thesis) can be accessed through the PANGAEA data publisher for earth and environmental science under the Creative Commons Attribution 3.0 Unported license, https://www.pangaea.de. 
+
+High resolution urban monitor data were provided by the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO) Perth and Peel Urban Monitoring Programme (Caccetta et al., 2012), through the National Environmental Science Program’s Clean Air and Landscape Hub and remains the copyright (©) of CSIRO. 
+
+Railway and road vector data were provided by the Shared Location Information Platform delivered by Landgate (Western Australia’s land information authority) on behalf of the State of Western Australia. © Western Australian Land Information Authority (Landgate) (2017). 
+
+The Moderate Resolution Imaging Spectroradiometer Terra land surface temperature (MOD11A1, collection 5) data were retrieved from the online Data Pool, courtesy of the National Aeronautics and Space Administration [Land Processes. Distributed Active Archive Center, Untied States Geological Survey/Earth Resources Observation and Science Center, Sioux Falls, South Dakota], https://lpdaac.usgs.gov/data_access/data_pool. 
+
+Metrological data were retrieved from the Weatherundergound.com website, courtesy of The Weather Company, LLC, 1001 Summit Boulevard, Floor 20, Brookhaven, GA, USA, https://www.wunderground.com. 
+
+Downward shortwave radiation data were provided by the European Union Water and Global Change project, specifically the Water and Global Change Forcing Data methodology applied to ERA-interim (known as WFDEI) data, with the required attribution reference to Weedon et al. (2014), http://www.eu-watch.org/data_availability. 
+
+Open street map data were provided under the Open Database License (www.openstreetmap.org/copyright), and has the attribution of © OpenStreetMap contributors, https://www.openstreetmap.org. 
+
+Planning proposal documentation was accessed from the City of Fremantle planning website courtesy of the city of Fremantle, accessible at https://mysay.fremantle.wa.gov.au. The specific plans used and the concepts they represent are reserved to the Buchan Group – 2006, the authors of the plans, © The Buchan Group 2010. 
